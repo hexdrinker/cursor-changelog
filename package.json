@@ -8,7 +8,10 @@
     "start": "next start",
     "lint": "next lint",
     "test:parser": "npx tsx src/lib/utils/test-parser.ts",
-    "test:translator": "npx tsx src/lib/utils/test-translator.ts"
+    "test:translator": "npx tsx src/lib/utils/test-translator.ts",
+    "test:sync": "node scripts/test-sync.js help",
+    "sync:status": "node scripts/test-sync.js status",
+    "sync:run": "node scripts/test-sync.js sync"
   },
   "dependencies": {
     "@types/cheerio": "^1.0.0",

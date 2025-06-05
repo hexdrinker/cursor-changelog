@@ -8,6 +8,7 @@ Cursor 공식 changelog를 파싱하고 다국어 번역을 제공하는 Next.js
 - **🌐 다국어 번역**: OpenAI를 활용한 한국어, 일본어, 중국어, 스페인어 번역 지원
 - **⚡ 스마트 캐싱**: 메모리 캐시 + 번역 캐시로 성능 최적화
 - **🚀 REST API**: 간단한 쿼리 파라미터로 데이터 조회
+- **🔄 자동 동기화**: 1시간마다 changelog 크롤링 및 번역 자동 업데이트
 
 ## 📡 API 사용법
 
@@ -78,6 +79,32 @@ GET /api/changelog?version=1.0&lang=ko
 ```bash
 # .env.local 파일 생성
 echo "OPENAI_API_KEY=your-openai-api-key-here" > .env.local
+
+# 동기화 API 보안을 위한 토큰 (선택사항)
+echo "SYNC_TOKEN=your-secure-token-here" >> .env.local
+```
+
+## 🔄 자동 동기화
+
+프로젝트에는 changelog를 자동으로 동기화하는 시스템이 포함되어 있습니다.
+
+- **API 엔드포인트**: `/api/sync`
+- **주기**: 1시간마다 자동 실행
+- **기능**: 새로운 changelog 감지, 자동 번역, 캐시 업데이트
+
+자세한 사용법은 [`SYNC_API_USAGE.md`](./SYNC_API_USAGE.md)를 참조하세요.
+
+### 테스트 명령어
+
+```bash
+# 동기화 상태 확인
+pnpm run sync:status
+
+# 수동 동기화 실행
+pnpm run sync:run
+
+# 테스트 도구 도움말
+pnpm run test:sync
 ```
 
 ## Getting Started

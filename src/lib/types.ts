@@ -13,3 +13,13 @@ export interface ChangelogEntry {
 export interface GroupedChangelog {
   [key: string]: ChangelogEntry[]
 }
+
+export interface Language {
+  code: string
+  name: string
+  flag: string
+}
+
+export interface MultiLanguageChangelogData {
+  [languageCode: string]: ChangelogEntry[]
+}

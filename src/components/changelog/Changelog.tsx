@@ -1,7 +1,7 @@
 'use client'
 
 import { useState, useMemo } from 'react'
-import { changelogData } from '@/lib/data/changelog'
+import { multiLanguageChangelogData } from '@/lib/data/changelog-multilang'
 import { groupChangelogByDate } from '@/lib/utils'
 import { ChangelogEntry } from './ChangelogEntry'
 import { ChangelogHeader } from './ChangelogHeader'
@@ -12,9 +12,10 @@ import { EmptyState } from './EmptyState'
 export function Changelog() {
   const [activeFilters, setActiveFilters] = useState<string[]>(['all'])
   const [searchQuery, setSearchQuery] = useState('')
+  const [currentLanguage, setCurrentLanguage] = useState('ko')
 
   const filteredData = useMemo(() => {
-    let data = changelogData
+    let data = multiLanguageChangelogData[currentLanguage] || []
 
     // 카테고리 필터링
     if (!activeFilters.includes('all')) {
@@ -35,7 +36,7 @@ export function Changelog() {
     }
 
     return data
-  }, [activeFilters, searchQuery])
+  }, [activeFilters, searchQuery, currentLanguage])
 
   const groupedChangelog = groupChangelogByDate(filteredData)
   const sortedDates = Object.keys(groupedChangelog).sort(
@@ -44,7 +45,10 @@ export function Changelog() {
 
   return (
     <div className='min-h-screen bg-gray-50'>
-      <ChangelogHeader />
+      <ChangelogHeader
+        currentLanguage={currentLanguage}
+        onLanguageChange={setCurrentLanguage}
+      />
 
       <main className='max-w-4xl mx-auto px-6 py-12'>
         <ChangelogSearch onSearchChange={setSearchQuery} />

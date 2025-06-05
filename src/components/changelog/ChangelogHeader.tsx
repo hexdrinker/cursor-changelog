@@ -1,7 +1,25 @@
-export function ChangelogHeader() {
+import { LanguageSelector } from '../LanguageSelector'
+
+interface ChangelogHeaderProps {
+  currentLanguage: string
+  onLanguageChange: (languageCode: string) => void
+}
+
+export function ChangelogHeader({
+  currentLanguage,
+  onLanguageChange,
+}: ChangelogHeaderProps) {
   return (
     <header className='bg-white border-b border-gray-200'>
       <div className='max-w-4xl mx-auto px-6 py-12'>
+        {/* 언어 선택 드롭다운 - 우측 상단 */}
+        <div className='flex justify-end mb-8'>
+          <LanguageSelector
+            currentLanguage={currentLanguage}
+            onLanguageChange={onLanguageChange}
+          />
+        </div>
+
         <div className='text-center'>
           <h1 className='text-5xl font-bold text-gray-900 mb-4'>Changelog</h1>
           <p className='text-xl text-gray-600 max-w-2xl mx-auto leading-relaxed'>

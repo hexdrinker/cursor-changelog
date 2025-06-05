@@ -1,5 +1,5 @@
-import { Changelog } from '@/components/changelog/Changelog'
+import { PaginatedChangelog } from '@/components/changelog/PaginatedChangelog'
 
 export default function Home() {
-  return <Changelog />
+  return <PaginatedChangelog />
 }

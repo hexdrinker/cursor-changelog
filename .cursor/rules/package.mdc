@@ -1,0 +1,27 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+---
+description: Package Rule
+globs:
+alwaysApply: true
+---
+
+## 패키지 매니저
+
+이 프로젝트의 패키지 매니저는 `pnpm` 입니다.
+lock file은 `pnpm-lock.yaml`을 참조하세요.
+
+## 패키지
+
+이 프로젝트에 설치된 패키지는 `package.json`을 참조하세요.
+
+- next: 15.3.3
+- react: ^19.0.0
+- react-dom: ^19.0.0
+- tailwindcss: ^4
+- typescript: ^5
+
+주요 패키지는 위와 같습니다.

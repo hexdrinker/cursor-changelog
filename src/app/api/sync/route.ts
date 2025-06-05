@@ -56,7 +56,7 @@ async function translateChangelogEntry(
   const translations: Record<
     SupportedLanguage,
     Partial<ChangelogEntry>
-  > = {} as any
+  > = {} as Record<SupportedLanguage, Partial<ChangelogEntry>>
 
   try {
     // 각 언어별로 번역 수행
@@ -137,7 +137,7 @@ async function translateChangelogEntry(
 /**
  * 메모리 캐시 (간단한 구현)
  */
-let syncCache: {
+const syncCache: {
   entries: ChangelogEntry[]
   translations: Record<
     string,

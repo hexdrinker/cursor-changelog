@@ -14,9 +14,6 @@ let cachedChangelogData: ChangelogEntry[] | null = null
 let cacheTimestamp = 0
 const CACHE_DURATION = 30 * 60 * 1000 // 30분
 
-// 지원되는 기본 필드들
-const TRANSLATABLE_FIELDS = ['title', 'content'] as const
-
 /**
  * 단일 changelog 항목을 번역합니다
  */

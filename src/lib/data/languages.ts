@@ -7,11 +7,6 @@ export const supportedLanguages: Language[] = [
     flag: '🇰🇷',
   },
   {
-    code: 'en',
-    name: 'English',
-    flag: '🇺🇸',
-  },
-  {
     code: 'ja',
     name: '日本語',
     flag: '🇯🇵',
@@ -20,5 +15,10 @@ export const supportedLanguages: Language[] = [
     code: 'zh',
     name: '中文',
     flag: '🇨🇳',
+  },
+  {
+    code: 'es',
+    name: 'Español',
+    flag: '🇪🇸',
   },
 ]

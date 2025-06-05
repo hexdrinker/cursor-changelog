@@ -1,0 +1,2403 @@
+{
+  "version": "1.0",
+  "entries": {
+    "56d21fc0fe38cfb6": {
+      "originalText": "BugBot, Background Agent access to everyone and one-click MCP install",
+      "hash": "56d21fc0fe38cfb6",
+      "translations": {
+        "ko": "버그봇, 모든 사람을 위한 백그라운드 에이전트 접근 및 원클릭 MCP 설치"
+      },
+      "createdAt": "2025-06-05T09:05:27.472Z",
+      "updatedAt": "2025-06-05T09:05:27.532Z"
+    },
+    "76de6927c0e427de": {
+      "originalText": "Simplified Pricing, Background Agent and Refreshed Inline Edit",
+      "hash": "76de6927c0e427de",
+      "translations": {
+        "ko": "간소화된 가격 책정, 백그라운드 에이전트 및 새로워진 인라인 편집"
+      },
+      "createdAt": "2025-06-05T09:05:29.938Z",
+      "updatedAt": "2025-06-05T09:05:29.938Z"
+    },
+    "804873abae6fb04c": {
+      "originalText": "0.50May 15, 20250.50Simplified Pricing, Background Agent and Refreshed Inline EditIntroducing unified request-based pricing, Max Mode for all top models, and Background Agent for parallel task execution. Plus, improved context management with @folders support, refreshed Inline Edit with new options, faster file edits, multi-root workspace support, and enhanced chat features including export and duplication. Simpler, unified pricing We've heard your feedback and are rolling out a unified pricing model to make it less confusing. Here's how it works: All model usage is now unified into request-based pricing Max mode now uses token-based pricing (similar to how models API pricing works) Premium tool calls and long context mode are removed to keep it simple Quotas on plans Hobby, Pro and Business has not changed and slow requests are still included in the plans. All usage can be found in your dashboard to help you track and manage your spend. Max Mode for all top models Max Mode is now avai...",
+      "hash": "804873abae6fb04c",
+      "translations": {
+        "ko": "0.50 2025년 5월 15일 0.50 단순화된 가격 책정, 백그라운드 에이전트 및 새로워진 인라인 편집 통합 요청 기반 가격 책정을 도입하며, 모든 주요 모델에 대한 최대 모드와 병렬 작업 실행을 위한 백그라운드 에이전트를 제공합니다. 또한, @폴더 지원을 통한 개선된 컨텍스트 관리, 새로운 옵션이 추가된 새로워진 인라인 편집, 더 빠른 파일 편집, 다중 루트 작업 공간 지원, 내보내기 및 복제를 포함한 향상된 채팅 기능이 추가되었습니다. 더 간단하고 통합된 가격 책정 여러분의 피드백을 반영하여 혼란을 줄이기 위해 통합 가격 모델을 도입합니다. 작동 방식은 다음과 같습니다: 모든 모델 사용이 이제 요청 기반 가격 책정으로 통합되었습니다. 최대 모드는 이제 토큰 기반 가격 책정(모델 API 가격 책정 방식과 유사)을 사용합니다. 프리미엄 도구 호출 및 긴 컨텍스트 모드는 간단하게 유지하기 위해 제거되었습니다. 취미, 프로 및 비즈니스 플랜의 쿼터는 변경되지 않았으며 느린 요청은 여전히 플랜에 포함됩니다. 모든 사용량은 대시보드에서 확인할 수 있어 지출을 추적하고 관리하는 데 도움이 됩니다. 모든 주요 모델에 대한 최대 모드 최대 모드는 이제 사용 가능..."
+      },
+      "createdAt": "2025-06-05T09:05:38.876Z",
+      "updatedAt": "2025-06-05T09:05:38.876Z"
+    },
+    "fdd60259b3b1030e": {
+      "originalText": "Duplicate Chats",
+      "hash": "fdd60259b3b1030e",
+      "translations": {
+        "ko": "중복 채팅"
+      },
+      "createdAt": "2025-06-05T09:05:40.099Z",
+      "updatedAt": "2025-06-05T09:05:40.099Z"
+    },
+    "c725b371c9091fb1": {
+      "originalText": "Exporting Chat",
+      "hash": "c725b371c9091fb1",
+      "translations": {
+        "ko": "채팅 내보내기"
+      },
+      "createdAt": "2025-06-05T09:05:40.369Z",
+      "updatedAt": "2025-06-05T09:05:40.369Z"
+    },
+    "e25148a613a60ea4": {
+      "originalText": "Include your entire codebase in context",
+      "hash": "e25148a613a60ea4",
+      "translations": {
+        "ko": "전체 코드베이스를 포함하세요"
+      },
+      "createdAt": "2025-06-05T09:05:40.533Z",
+      "updatedAt": "2025-06-05T09:05:40.533Z"
+    },
+    "3e2066346ffda254": {
+      "originalText": "Fast edits for long files with Agent",
+      "hash": "3e2066346ffda254",
+      "translations": {
+        "ko": "에이전트를 이용한 긴 파일의 빠른 편집"
+      },
+      "createdAt": "2025-06-05T09:05:40.562Z",
+      "updatedAt": "2025-06-05T09:05:40.562Z"
+    },
+    "147c343425d74c48": {
+      "originalText": "Max Mode for all top models",
+      "hash": "147c343425d74c48",
+      "translations": {
+        "ko": "모든 최고 모델을 위한 맥스 모드"
+      },
+      "createdAt": "2025-06-05T09:05:40.582Z",
+      "updatedAt": "2025-06-05T09:05:40.582Z"
+    },
+    "61ea8245b998cf4b": {
+      "originalText": "Work in multiple codebases with workspaces",
+      "hash": "61ea8245b998cf4b",
+      "translations": {
+        "ko": "여러 코드베이스에서 작업 공간으로 작업하기"
+      },
+      "createdAt": "2025-06-05T09:05:40.745Z",
+      "updatedAt": "2025-06-05T09:05:40.745Z"
+    },
+    "e843b5c3984c54f6": {
+      "originalText": "Simpler, unified pricing",
+      "hash": "e843b5c3984c54f6",
+      "translations": {
+        "ko": "더 간단하고 통합된 가격"
+      },
+      "createdAt": "2025-06-05T09:05:40.930Z",
+      "updatedAt": "2025-06-05T09:05:40.930Z"
+    },
+    "de1cd451d0907c96": {
+      "originalText": "Background Agent Preview",
+      "hash": "de1cd451d0907c96",
+      "translations": {
+        "ko": "백그라운드 에이전트 미리보기"
+      },
+      "createdAt": "2025-06-05T09:05:40.934Z",
+      "updatedAt": "2025-06-05T09:05:40.934Z"
+    },
+    "6534342bd270a0f1": {
+      "originalText": "Working with Chat",
+      "hash": "6534342bd270a0f1",
+      "translations": {
+        "ko": "챗과 함께 작업하기"
+      },
+      "createdAt": "2025-06-05T09:05:40.956Z",
+      "updatedAt": "2025-06-05T09:05:40.956Z"
+    },
+    "54b891faa7c38df5": {
+      "originalText": "New Tab model",
+      "hash": "54b891faa7c38df5",
+      "translations": {
+        "ko": "새 탭 모델"
+      },
+      "createdAt": "2025-06-05T09:05:41.332Z",
+      "updatedAt": "2025-06-05T09:05:41.332Z"
+    },
+    "d971389954ea01c3": {
+      "originalText": "Refreshed Inline Edit (Cmd/Ctrl+K) with Agent integration",
+      "hash": "d971389954ea01c3",
+      "translations": {
+        "ko": "에이전트 통합이 포함된 새로워진 인라인 편집 (Cmd/Ctrl+K)"
+      },
+      "createdAt": "2025-06-05T09:05:42.269Z",
+      "updatedAt": "2025-06-05T09:05:42.269Z"
+    },
+    "135362f7e8b3076e": {
+      "originalText": "1.0June 4, 20251.0BugBot, Background Agent access to everyone and one-click MCP installCursor 1.0 is here! This release brings BugBot for code review, a first look at memories, one-click MCP setup, Jupyter support, and general availability of Background Agent. Automatic code review with BugBot BugBot automatically reviews your PRs and catches potential bugs and issues. When an issue is found, BugBot leaves a comment on your PRs in GitHub. You can click \"Fix in Cursor\" to move back to the editor with a pre-filled prompt to fix the issue. To set it up, follow instructions in our BugBot docs. Your browser does not support the video tag. Background Agent for everyone Since we released Background Agent, our remote coding agent, in early access a few weeks ago, early signals have been positive. We're now excited to expand Background Agent to all users! You can start using it right away by clicking the cloud icon in chat or hitting Cmd/Ctrl+E if you have privacy mode disabled. For users with ...",
+      "hash": "135362f7e8b3076e",
+      "translations": {
+        "ko": "1.0June 4, 20251.0BugBot, Background Agent access to everyone and one-click MCP installCursor 1.0 is here! This release brings BugBot for code review, a first look at memories, one-click MCP setup, Jupyter support, and general availability of Background Agent. Automatic code review with BugBot BugBot automatically reviews your PRs and catches potential bugs and issues. When an issue is found, BugBot leaves a comment on your PRs in GitHub. You can click \"Fix in Cursor\" to move back to the editor with a pre-filled prompt to fix the issue. To set it up, follow instructions in our BugBot docs. Your browser does not support the video tag. Background Agent for everyone Since we released Background Agent, our remote coding agent, in early access a few weeks ago, early signals have been positive. We're now excited to expand Background Agent to all users! You can start using it right away by clicking the cloud icon in chat or hitting Cmd/Ctrl+E if you have privacy mode disabled. For users with ..."
+      },
+      "createdAt": "2025-06-05T09:05:45.146Z",
+      "updatedAt": "2025-06-05T09:05:46.861Z"
+    },
+    "e7218b5e4a564975": {
+      "originalText": "Memories",
+      "hash": "e7218b5e4a564975",
+      "translations": {
+        "ko": "추억"
+      },
+      "createdAt": "2025-06-05T09:05:46.265Z",
+      "updatedAt": "2025-06-05T09:05:46.265Z"
+    },
+    "9dec630a81835a80": {
+      "originalText": "Automatic code review with BugBot",
+      "hash": "9dec630a81835a80",
+      "translations": {
+        "ko": "버그봇을 통한 자동 코드 리뷰"
+      },
+      "createdAt": "2025-06-05T09:05:46.603Z",
+      "updatedAt": "2025-06-05T09:05:46.603Z"
+    },
+    "fce890951664774e": {
+      "originalText": "Agent in Jupyter Notebooks",
+      "hash": "fce890951664774e",
+      "translations": {
+        "ko": "주피터 노트북의 에이전트"
+      },
+      "createdAt": "2025-06-05T09:05:46.718Z",
+      "updatedAt": "2025-06-05T09:05:46.718Z"
+    },
+    "6b91c9f4847f028c": {
+      "originalText": "Richer Chat responses",
+      "hash": "6b91c9f4847f028c",
+      "translations": {
+        "ko": "더 풍부한 채팅 응답"
+      },
+      "createdAt": "2025-06-05T09:05:46.763Z",
+      "updatedAt": "2025-06-05T09:05:46.763Z"
+    },
+    "5b8c197a94609947": {
+      "originalText": "Background Agent for everyone",
+      "hash": "5b8c197a94609947",
+      "translations": {
+        "ko": "모두를 위한 배경 에이전트"
+      },
+      "createdAt": "2025-06-05T09:05:47.053Z",
+      "updatedAt": "2025-06-05T09:05:48.770Z"
+    },
+    "4c79e0161ea8abc3": {
+      "originalText": "New Settings and Dashboard",
+      "hash": "4c79e0161ea8abc3",
+      "translations": {
+        "ko": "새로운 설정 및 대시보드"
+      },
+      "createdAt": "2025-06-05T09:05:47.257Z",
+      "updatedAt": "2025-06-05T09:05:48.840Z"
+    },
+    "bf9059ada48a45ea": {
+      "originalText": "MCP one-click install and OAuth support",
+      "hash": "bf9059ada48a45ea",
+      "translations": {
+        "ko": "MCP 원클릭 설치 및 OAuth 지원"
+      },
+      "createdAt": "2025-06-05T09:05:47.902Z",
+      "updatedAt": "2025-06-05T09:05:49.036Z"
+    },
+    "b9d441901357da22": {
+      "originalText": "Images in MCP",
+      "hash": "b9d441901357da22",
+      "translations": {
+        "ko": "MCP의 이미지"
+      },
+      "createdAt": "2025-06-05T09:05:48.069Z",
+      "updatedAt": "2025-06-05T09:05:48.069Z"
+    },
+    "d82e59eb99c459b6": {
+      "originalText": "New Features",
+      "hash": "d82e59eb99c459b6",
+      "translations": {
+        "ko": "새로운 기능"
+      },
+      "createdAt": "2025-06-05T09:05:48.161Z",
+      "updatedAt": "2025-06-05T09:05:48.952Z"
+    },
+    "82ef8fd381453d74": {
+      "originalText": "Docs updates",
+      "hash": "82ef8fd381453d74",
+      "translations": {
+        "ko": "문서 업데이트"
+      },
+      "createdAt": "2025-06-05T09:05:48.165Z",
+      "updatedAt": "2025-06-05T09:05:48.165Z"
+    },
+    "d4d7c1c38a0e881e": {
+      "originalText": "/edit in chat",
+      "hash": "d4d7c1c38a0e881e",
+      "translations": {
+        "ko": "/채팅에서 편집"
+      },
+      "createdAt": "2025-06-05T09:05:48.206Z",
+      "updatedAt": "2025-06-05T09:05:48.206Z"
+    },
+    "3cc5786fef8f148e": {
+      "originalText": "Inline Chat",
+      "hash": "3cc5786fef8f148e",
+      "translations": {
+        "ko": "인라인 채팅"
+      },
+      "createdAt": "2025-06-05T09:05:48.211Z",
+      "updatedAt": "2025-06-05T09:05:48.211Z"
+    },
+    "ebc9beedc7febb54": {
+      "originalText": "WSL Fixes",
+      "hash": "ebc9beedc7febb54",
+      "translations": {
+        "ko": "WSL 수정 사항"
+      },
+      "createdAt": "2025-06-05T09:05:48.213Z",
+      "updatedAt": "2025-06-05T09:05:48.213Z"
+    },
+    "adb399628794d005": {
+      "originalText": "New upstream",
+      "hash": "adb399628794d005",
+      "translations": {
+        "ko": "새로운 상류"
+      },
+      "createdAt": "2025-06-05T09:05:48.214Z",
+      "updatedAt": "2025-06-05T09:05:48.214Z"
+    },
+    "8818e04dbff3d196": {
+      "originalText": "AI Previews Beta",
+      "hash": "8818e04dbff3d196",
+      "translations": {
+        "ko": "AI 미리보기 베타"
+      },
+      "createdAt": "2025-06-05T09:05:48.250Z",
+      "updatedAt": "2025-06-05T09:05:48.250Z"
+    },
+    "0df33fe404a2b4e9": {
+      "originalText": "Bug Fixes",
+      "hash": "0df33fe404a2b4e9",
+      "translations": {
+        "ko": "버그 수정"
+      },
+      "createdAt": "2025-06-05T09:05:48.260Z",
+      "updatedAt": "2025-06-05T09:05:48.778Z"
+    },
+    "ca217d9d3d601811": {
+      "originalText": "Claude Support",
+      "hash": "ca217d9d3d601811",
+      "translations": {
+        "ko": "클로드 지원"
+      },
+      "createdAt": "2025-06-05T09:05:48.263Z",
+      "updatedAt": "2025-06-05T09:05:48.263Z"
+    },
+    "e6400a986f31acd8": {
+      "originalText": "Azure Support",
+      "hash": "e6400a986f31acd8",
+      "translations": {
+        "ko": "Azure 지원"
+      },
+      "createdAt": "2025-06-05T09:05:48.266Z",
+      "updatedAt": "2025-06-05T09:05:48.266Z"
+    },
+    "e6c7a6f8c8f6f11b": {
+      "originalText": "New AI Project",
+      "hash": "e6c7a6f8c8f6f11b",
+      "translations": {
+        "ko": "새로운 AI 프로젝트"
+      },
+      "createdAt": "2025-06-05T09:05:48.271Z",
+      "updatedAt": "2025-06-05T09:05:48.271Z"
+    },
+    "3fc7bc67ba574d57": {
+      "originalText": "In-editor chat",
+      "hash": "3fc7bc67ba574d57",
+      "translations": {
+        "ko": "편집기 내 채팅"
+      },
+      "createdAt": "2025-06-05T09:05:48.275Z",
+      "updatedAt": "2025-06-05T09:05:48.275Z"
+    },
+    "3483f5a6b7a9bbe8": {
+      "originalText": "Project structure in context Beta",
+      "hash": "3483f5a6b7a9bbe8",
+      "translations": {
+        "ko": "컨텍스트 베타의 프로젝트 구조"
+      },
+      "createdAt": "2025-06-05T09:05:48.279Z",
+      "updatedAt": "2025-06-05T09:05:48.279Z"
+    },
+    "65464e67e8352e83": {
+      "originalText": "Bug fix",
+      "hash": "65464e67e8352e83",
+      "translations": {
+        "ko": "버그 수정"
+      },
+      "createdAt": "2025-06-05T09:05:48.287Z",
+      "updatedAt": "2025-06-05T09:05:48.287Z"
+    },
+    "c1027a2181608079": {
+      "originalText": "Small refactor",
+      "hash": "c1027a2181608079",
+      "translations": {
+        "ko": "소규모 리팩토링"
+      },
+      "createdAt": "2025-06-05T09:05:48.291Z",
+      "updatedAt": "2025-06-05T09:05:48.291Z"
+    },
+    "b4be378677323e71": {
+      "originalText": "AI linter",
+      "hash": "b4be378677323e71",
+      "translations": {
+        "ko": "AI 린터"
+      },
+      "createdAt": "2025-06-05T09:05:48.292Z",
+      "updatedAt": "2025-06-05T09:05:48.292Z"
+    },
+    "cb7ae408db9c0e0c": {
+      "originalText": "Better Remote Support",
+      "hash": "cb7ae408db9c0e0c",
+      "translations": {
+        "ko": "더 나은 원격 지원"
+      },
+      "createdAt": "2025-06-05T09:05:48.299Z",
+      "updatedAt": "2025-06-05T09:05:48.299Z"
+    },
+    "963a5b6f2cd0a335": {
+      "originalText": "Global ignore files",
+      "hash": "963a5b6f2cd0a335",
+      "translations": {
+        "ko": "전 세계 무시 파일"
+      },
+      "createdAt": "2025-06-05T09:05:48.301Z",
+      "updatedAt": "2025-06-05T09:05:48.301Z"
+    },
+    "3d7a507c0f493fc7": {
+      "originalText": "Hotfix large persisted state",
+      "hash": "3d7a507c0f493fc7",
+      "translations": {
+        "ko": "대규모 지속 상태 핫픽스"
+      },
+      "createdAt": "2025-06-05T09:05:48.302Z",
+      "updatedAt": "2025-06-05T09:05:48.302Z"
+    },
+    "66c3e7af0dbeb335": {
+      "originalText": "Release for Linux",
+      "hash": "66c3e7af0dbeb335",
+      "translations": {
+        "ko": "리눅스용 출시"
+      },
+      "createdAt": "2025-06-05T09:05:48.332Z",
+      "updatedAt": "2025-06-05T09:05:48.332Z"
+    },
+    "7d038dca94a28d7c": {
+      "originalText": "Performance hotfix",
+      "hash": "7d038dca94a28d7c",
+      "translations": {
+        "ko": "성능 핫픽스"
+      },
+      "createdAt": "2025-06-05T09:05:48.336Z",
+      "updatedAt": "2025-06-05T09:05:49.168Z"
+    },
+    "a5c08f47f78a679e": {
+      "originalText": "Styling tweaks",
+      "hash": "a5c08f47f78a679e",
+      "translations": {
+        "ko": "스타일 조정"
+      },
+      "createdAt": "2025-06-05T09:05:48.337Z",
+      "updatedAt": "2025-06-05T09:05:48.337Z"
+    },
+    "a26a45131d8bba39": {
+      "originalText": "Stable Indexing v0.1",
+      "hash": "a26a45131d8bba39",
+      "translations": {
+        "ko": "안정적인 인덱싱 v0.1"
+      },
+      "createdAt": "2025-06-05T09:05:48.340Z",
+      "updatedAt": "2025-06-05T09:05:48.340Z"
+    },
+    "22e2bada8f1c65cd": {
+      "originalText": "Updates",
+      "hash": "22e2bada8f1c65cd",
+      "translations": {
+        "ko": "업데이트"
+      },
+      "createdAt": "2025-06-05T09:05:48.342Z",
+      "updatedAt": "2025-06-05T09:05:48.342Z"
+    },
+    "f01df2e8f51a1184": {
+      "originalText": "SSH and WSL fixes",
+      "hash": "f01df2e8f51a1184",
+      "translations": {
+        "ko": "SSH 및 WSL 수정"
+      },
+      "createdAt": "2025-06-05T09:05:48.344Z",
+      "updatedAt": "2025-06-05T09:05:48.344Z"
+    },
+    "4f7d64017689437e": {
+      "originalText": "Coming soon",
+      "hash": "4f7d64017689437e",
+      "translations": {
+        "ko": "곧 출시됩니다"
+      },
+      "createdAt": "2025-06-05T09:05:48.359Z",
+      "updatedAt": "2025-06-05T09:05:48.989Z"
+    },
+    "096999db86709c70": {
+      "originalText": "Hotfix for Chat",
+      "hash": "096999db86709c70",
+      "translations": {
+        "ko": "채팅을 위한 핫픽스"
+      },
+      "createdAt": "2025-06-05T09:05:48.370Z",
+      "updatedAt": "2025-06-05T09:05:48.370Z"
+    },
+    "153aabcf9c01a8aa": {
+      "originalText": "Aux Window Fixes",
+      "hash": "153aabcf9c01a8aa",
+      "translations": {
+        "ko": "보조 창 수정"
+      },
+      "createdAt": "2025-06-05T09:05:48.372Z",
+      "updatedAt": "2025-06-05T09:05:48.372Z"
+    },
+    "d4102d2b9d311ae1": {
+      "originalText": "Email in settings",
+      "hash": "d4102d2b9d311ae1",
+      "translations": {
+        "ko": "설정에서 이메일"
+      },
+      "createdAt": "2025-06-05T09:05:48.377Z",
+      "updatedAt": "2025-06-05T09:05:48.377Z"
+    },
+    "96edd075873de1ab": {
+      "originalText": "Composer (beta)",
+      "hash": "96edd075873de1ab",
+      "translations": {
+        "ko": "작곡가 (베타)"
+      },
+      "createdAt": "2025-06-05T09:05:48.380Z",
+      "updatedAt": "2025-06-05T09:05:48.380Z"
+    },
+    "6b23b6e76ebdbf75": {
+      "originalText": "@definitions in cmd+k",
+      "hash": "6b23b6e76ebdbf75",
+      "translations": {
+        "ko": "@definitions를 cmd+k에서"
+      },
+      "createdAt": "2025-06-05T09:05:48.384Z",
+      "updatedAt": "2025-06-05T09:05:48.384Z"
+    },
+    "35d606016c61effd": {
+      "originalText": "Cursor-Fast Model",
+      "hash": "35d606016c61effd",
+      "translations": {
+        "ko": "커서-빠른 모델"
+      },
+      "createdAt": "2025-06-05T09:05:48.385Z",
+      "updatedAt": "2025-06-05T09:05:48.385Z"
+    },
+    "b97f0fb3f960efff": {
+      "originalText": "Copilot++ Improvements",
+      "hash": "b97f0fb3f960efff",
+      "translations": {
+        "ko": "Copilot++ 개선 사항"
+      },
+      "createdAt": "2025-06-05T09:05:48.393Z",
+      "updatedAt": "2025-06-05T09:05:48.393Z"
+    },
+    "770341d6e89e04e8": {
+      "originalText": "Polish",
+      "hash": "770341d6e89e04e8",
+      "translations": {
+        "ko": "폴란드어"
+      },
+      "createdAt": "2025-06-05T09:05:48.395Z",
+      "updatedAt": "2025-06-05T09:05:48.395Z"
+    },
+    "ff6aceae99468538": {
+      "originalText": "Sound notification (beta)",
+      "hash": "ff6aceae99468538",
+      "translations": {
+        "ko": "소리 알림 (베타)"
+      },
+      "createdAt": "2025-06-05T09:05:48.398Z",
+      "updatedAt": "2025-06-05T09:05:48.398Z"
+    },
+    "19563a38f474c7ff": {
+      "originalText": "Staged Rollouts",
+      "hash": "19563a38f474c7ff",
+      "translations": {
+        "ko": "단계적 롤아웃"
+      },
+      "createdAt": "2025-06-05T09:05:48.401Z",
+      "updatedAt": "2025-06-05T09:05:49.547Z"
+    },
+    "75b151fd0b2a4040": {
+      "originalText": "Fix for Cmd+Shift+F (Mac ARM)",
+      "hash": "75b151fd0b2a4040",
+      "translations": {
+        "ko": "Cmd+Shift+F 수정 (Mac ARM)"
+      },
+      "createdAt": "2025-06-05T09:05:48.413Z",
+      "updatedAt": "2025-06-05T09:05:48.413Z"
+    },
+    "fc52e212c80e73c6": {
+      "originalText": "Small fixes",
+      "hash": "fc52e212c80e73c6",
+      "translations": {
+        "ko": "작은 수정"
+      },
+      "createdAt": "2025-06-05T09:05:48.417Z",
+      "updatedAt": "2025-06-05T09:05:48.417Z"
+    },
+    "f0eaa8e56798e2ab": {
+      "originalText": "Command-K Vision Support",
+      "hash": "f0eaa8e56798e2ab",
+      "translations": {
+        "ko": "명령-K 비전 지원"
+      },
+      "createdAt": "2025-06-05T09:05:48.419Z",
+      "updatedAt": "2025-06-05T09:05:48.419Z"
+    },
+    "7af023c43013b9a5": {
+      "originalText": "Docs",
+      "hash": "7af023c43013b9a5",
+      "translations": {
+        "ko": "문서"
+      },
+      "createdAt": "2025-06-05T09:05:48.421Z",
+      "updatedAt": "2025-06-05T09:05:48.421Z"
+    },
+    "213eb3676dd622e9": {
+      "originalText": "Cmd-I to Heal",
+      "hash": "213eb3676dd622e9",
+      "translations": {
+        "ko": "Cmd-I로 치유하기"
+      },
+      "createdAt": "2025-06-05T09:05:48.422Z",
+      "updatedAt": "2025-06-05T09:05:48.422Z"
+    },
+    "4a45675be5d58e76": {
+      "originalText": "Making reviews easier",
+      "hash": "4a45675be5d58e76",
+      "translations": {
+        "ko": "리뷰를 더 쉽게 만들기"
+      },
+      "createdAt": "2025-06-05T09:05:48.427Z",
+      "updatedAt": "2025-06-05T09:05:48.427Z"
+    },
+    "4382f5f1a47cacec": {
+      "originalText": "Long Context Chat Beta",
+      "hash": "4382f5f1a47cacec",
+      "translations": {
+        "ko": "긴 컨텍스트 채팅 베타"
+      },
+      "createdAt": "2025-06-05T09:05:48.430Z",
+      "updatedAt": "2025-06-05T09:05:48.430Z"
+    },
+    "b1d5f38dc6bb1448": {
+      "originalText": "Cmd-K in the terminal!",
+      "hash": "b1d5f38dc6bb1448",
+      "translations": {
+        "ko": "터미널에서 Cmd-K!"
+      },
+      "createdAt": "2025-06-05T09:05:48.456Z",
+      "updatedAt": "2025-06-05T09:05:48.456Z"
+    },
+    "798b88568079ccdb": {
+      "originalText": "Small improvements",
+      "hash": "798b88568079ccdb",
+      "translations": {
+        "ko": "작은 개선"
+      },
+      "createdAt": "2025-06-05T09:05:48.469Z",
+      "updatedAt": "2025-06-05T09:05:49.218Z"
+    },
+    "2bb4d5566ba0c502": {
+      "originalText": "Cursor Marketplace",
+      "hash": "2bb4d5566ba0c502",
+      "translations": {
+        "ko": "커서 마켓플레이스"
+      },
+      "createdAt": "2025-06-05T09:05:48.472Z",
+      "updatedAt": "2025-06-05T09:05:48.472Z"
+    },
+    "92409c652256a4d9": {
+      "originalText": "Styling",
+      "hash": "92409c652256a4d9",
+      "translations": {
+        "ko": "스타일링"
+      },
+      "createdAt": "2025-06-05T09:05:48.491Z",
+      "updatedAt": "2025-06-05T09:05:48.491Z"
+    },
+    "8ef070610e88b9ce": {
+      "originalText": "Fix bug in @ symbol ranking",
+      "hash": "8ef070610e88b9ce",
+      "translations": {
+        "ko": "@ 기호 순위의 버그 수정"
+      },
+      "createdAt": "2025-06-05T09:05:48.493Z",
+      "updatedAt": "2025-06-05T09:05:48.493Z"
+    },
+    "36d6bc1f4145e427": {
+      "originalText": "Hotfix SSH",
+      "hash": "36d6bc1f4145e427",
+      "translations": {
+        "ko": "핫픽스 SSH"
+      },
+      "createdAt": "2025-06-05T09:05:48.496Z",
+      "updatedAt": "2025-06-05T09:05:48.496Z"
+    },
+    "41d7d9ef7610905b": {
+      "originalText": "VS Code 1.85.1",
+      "hash": "41d7d9ef7610905b",
+      "translations": {
+        "ko": "VS 코드 1.85.1"
+      },
+      "createdAt": "2025-06-05T09:05:48.497Z",
+      "updatedAt": "2025-06-05T09:05:48.497Z"
+    },
+    "3aa4a791a00d75de": {
+      "originalText": "Show the AI documentation",
+      "hash": "3aa4a791a00d75de",
+      "translations": {
+        "ko": "AI 문서를 보여주세요"
+      },
+      "createdAt": "2025-06-05T09:05:48.501Z",
+      "updatedAt": "2025-06-05T09:05:48.501Z"
+    },
+    "b6ff3cd7fcfd4153": {
+      "originalText": "Indexing fixes",
+      "hash": "b6ff3cd7fcfd4153",
+      "translations": {
+        "ko": "색인 수정"
+      },
+      "createdAt": "2025-06-05T09:05:48.502Z",
+      "updatedAt": "2025-06-05T09:05:48.502Z"
+    },
+    "1c22815500b5c18b": {
+      "originalText": "Patches",
+      "hash": "1c22815500b5c18b",
+      "translations": {
+        "ko": "패치"
+      },
+      "createdAt": "2025-06-05T09:05:48.518Z",
+      "updatedAt": "2025-06-05T09:05:48.518Z"
+    },
+    "1b91f1480e0cead9": {
+      "originalText": "Interpreter Mode Beta",
+      "hash": "1b91f1480e0cead9",
+      "translations": {
+        "ko": "인터프리터 모드 베타"
+      },
+      "createdAt": "2025-06-05T09:05:48.520Z",
+      "updatedAt": "2025-06-05T09:05:48.520Z"
+    },
+    "e6a55eb92f6d231b": {
+      "originalText": "Better Docs Management, Staged Rollouts",
+      "hash": "e6a55eb92f6d231b",
+      "translations": {
+        "ko": "더 나은 문서 관리, 단계적 출시"
+      },
+      "createdAt": "2025-06-05T09:05:48.521Z",
+      "updatedAt": "2025-06-05T09:05:48.521Z"
+    },
+    "d3b42c14a90f4fa2": {
+      "originalText": "Small things!",
+      "hash": "d3b42c14a90f4fa2",
+      "translations": {
+        "ko": "작은 것들!"
+      },
+      "createdAt": "2025-06-05T09:05:48.539Z",
+      "updatedAt": "2025-06-05T09:05:48.539Z"
+    },
+    "4d486a0a995446cb": {
+      "originalText": "Smarter Followups",
+      "hash": "4d486a0a995446cb",
+      "translations": {
+        "ko": "더 스마트한 후속 조치"
+      },
+      "createdAt": "2025-06-05T09:05:48.546Z",
+      "updatedAt": "2025-06-05T09:05:48.546Z"
+    },
+    "6a71007c9e567c57": {
+      "originalText": "Inline GPT-4 and full-file edits",
+      "hash": "6a71007c9e567c57",
+      "translations": {
+        "ko": "인라인 GPT-4 및 전체 파일 편집"
+      },
+      "createdAt": "2025-06-05T09:05:48.554Z",
+      "updatedAt": "2025-06-05T09:05:48.554Z"
+    },
+    "d29c4d4dda74f28d": {
+      "originalText": "Multiple Command-K, Copilot++ UI",
+      "hash": "d29c4d4dda74f28d",
+      "translations": {
+        "ko": "다중 Command-K, Copilot++ UI"
+      },
+      "createdAt": "2025-06-05T09:05:48.567Z",
+      "updatedAt": "2025-06-05T09:05:48.567Z"
+    },
+    "eeaebb75ec78a79f": {
+      "originalText": "Patch cursor command on Windows",
+      "hash": "eeaebb75ec78a79f",
+      "translations": {
+        "ko": "Windows에서 패치 커서 명령"
+      },
+      "createdAt": "2025-06-05T09:05:48.575Z",
+      "updatedAt": "2025-06-05T09:05:48.575Z"
+    },
+    "0f4263fce63fd9d2": {
+      "originalText": "More fixes",
+      "hash": "0f4263fce63fd9d2",
+      "translations": {
+        "ko": "더 많은 수정"
+      },
+      "createdAt": "2025-06-05T09:05:48.577Z",
+      "updatedAt": "2025-06-05T09:05:48.577Z"
+    },
+    "65df003467baf228": {
+      "originalText": "Cmd-K fast mode",
+      "hash": "65df003467baf228",
+      "translations": {
+        "ko": "Cmd-K 빠른 모드"
+      },
+      "createdAt": "2025-06-05T09:05:48.602Z",
+      "updatedAt": "2025-06-05T09:05:48.602Z"
+    },
+    "534bedc0b661e6bb": {
+      "originalText": "Fix for Cmd+K",
+      "hash": "534bedc0b661e6bb",
+      "translations": {
+        "ko": "Cmd+K 수정"
+      },
+      "createdAt": "2025-06-05T09:05:48.606Z",
+      "updatedAt": "2025-06-05T09:05:48.606Z"
+    },
+    "bd4188439d9575ff": {
+      "originalText": "Hotfix for large persisted state",
+      "hash": "bd4188439d9575ff",
+      "translations": {
+        "ko": "대규모 지속 상태에 대한 핫픽스"
+      },
+      "createdAt": "2025-06-05T09:05:48.673Z",
+      "updatedAt": "2025-06-05T09:05:48.673Z"
+    },
+    "3ec3b4b974740dfb": {
+      "originalText": "Bug fixes:",
+      "hash": "3ec3b4b974740dfb",
+      "translations": {
+        "ko": "버그 수정:"
+      },
+      "createdAt": "2025-06-05T09:05:48.680Z",
+      "updatedAt": "2025-06-05T09:05:48.680Z"
+    },
+    "ab1f7eb726241c02": {
+      "originalText": "GPT-V Support",
+      "hash": "ab1f7eb726241c02",
+      "translations": {
+        "ko": "GPT-V 지원"
+      },
+      "createdAt": "2025-06-05T09:05:48.689Z",
+      "updatedAt": "2025-06-05T09:05:48.689Z"
+    },
+    "ddd6590e73cf96e0": {
+      "originalText": "Agents, new docs",
+      "hash": "ddd6590e73cf96e0",
+      "translations": {
+        "ko": "에이전트, 새로운 문서"
+      },
+      "createdAt": "2025-06-05T09:05:48.724Z",
+      "updatedAt": "2025-06-05T09:05:48.724Z"
+    },
+    "13be162f83ee90c8": {
+      "originalText": "Codebase Context v1",
+      "hash": "13be162f83ee90c8",
+      "translations": {
+        "ko": "코드베이스 컨텍스트 v1"
+      },
+      "createdAt": "2025-06-05T09:05:48.727Z",
+      "updatedAt": "2025-06-05T09:05:48.870Z"
+    },
+    "cc07a0530db80132": {
+      "originalText": "0.15.1 - New models, Copilot++ beta",
+      "hash": "cc07a0530db80132",
+      "translations": {
+        "ko": "0.15.1 - 새로운 모델, Copilot++ 베타"
+      },
+      "createdAt": "2025-06-05T09:05:48.737Z",
+      "updatedAt": "2025-06-05T09:05:48.737Z"
+    },
+    "e75d155701ce8566": {
+      "originalText": "Enterprise subscription support & misc fixes",
+      "hash": "e75d155701ce8566",
+      "translations": {
+        "ko": "기업 구독 지원 및 기타 수정"
+      },
+      "createdAt": "2025-06-05T09:05:48.739Z",
+      "updatedAt": "2025-06-05T09:05:48.739Z"
+    },
+    "a0852d4e4a182a82": {
+      "originalText": "Chat tabs",
+      "hash": "a0852d4e4a182a82",
+      "translations": {
+        "ko": "채팅 탭"
+      },
+      "createdAt": "2025-06-05T09:05:48.746Z",
+      "updatedAt": "2025-06-05T09:05:48.746Z"
+    },
+    "a2a29afe7d6d868e": {
+      "originalText": "Better Jupyter Support",
+      "hash": "a2a29afe7d6d868e",
+      "translations": {
+        "ko": "더 나은 주피터 지원"
+      },
+      "createdAt": "2025-06-05T09:05:48.767Z",
+      "updatedAt": "2025-06-05T09:05:48.767Z"
+    },
+    "3e612871d60ec027": {
+      "originalText": "More accessible history",
+      "hash": "3e612871d60ec027",
+      "translations": {
+        "ko": "더 접근하기 쉬운 역사"
+      },
+      "createdAt": "2025-06-05T09:05:48.773Z",
+      "updatedAt": "2025-06-05T09:05:48.773Z"
+    },
+    "c44ecdff5f3fd831": {
+      "originalText": "Upgrades to GPT-4",
+      "hash": "c44ecdff5f3fd831",
+      "translations": {
+        "ko": "GPT-4 업그레이드"
+      },
+      "createdAt": "2025-06-05T09:05:48.779Z",
+      "updatedAt": "2025-06-05T09:05:48.779Z"
+    },
+    "e6d7396d327a370a": {
+      "originalText": "Codebase Context v2",
+      "hash": "e6d7396d327a370a",
+      "translations": {
+        "ko": "코드베이스 컨텍스트 v2"
+      },
+      "createdAt": "2025-06-05T09:05:48.783Z",
+      "updatedAt": "2025-06-05T09:05:48.783Z"
+    },
+    "b6d0a1f406fc0b62": {
+      "originalText": "Minor Bug Fixes",
+      "hash": "b6d0a1f406fc0b62",
+      "translations": {
+        "ko": "사소한 버그 수정"
+      },
+      "createdAt": "2025-06-05T09:05:48.785Z",
+      "updatedAt": "2025-06-05T09:05:48.785Z"
+    },
+    "a1d4a19648ad6a90": {
+      "originalText": "Long AI completions",
+      "hash": "a1d4a19648ad6a90",
+      "translations": {
+        "ko": "긴 AI 완성"
+      },
+      "createdAt": "2025-06-05T09:05:48.788Z",
+      "updatedAt": "2025-06-05T09:05:48.788Z"
+    },
+    "176fc23fcf86d7a2": {
+      "originalText": "In-terminal Debugging",
+      "hash": "176fc23fcf86d7a2",
+      "translations": {
+        "ko": "터미널 내 디버깅"
+      },
+      "createdAt": "2025-06-05T09:05:48.789Z",
+      "updatedAt": "2025-06-05T09:05:48.789Z"
+    },
+    "fa69330bcd55ea68": {
+      "originalText": "Make SSH Work on Xon.sh",
+      "hash": "fa69330bcd55ea68",
+      "translations": {
+        "ko": "Xon.sh에서 SSH 작동시키기"
+      },
+      "createdAt": "2025-06-05T09:05:48.791Z",
+      "updatedAt": "2025-06-05T09:05:48.791Z"
+    },
+    "57b2b7db72415b88": {
+      "originalText": "More Stable Codebase Indexing",
+      "hash": "57b2b7db72415b88",
+      "translations": {
+        "ko": "더 안정적인 코드베이스 인덱싱"
+      },
+      "createdAt": "2025-06-05T09:05:48.794Z",
+      "updatedAt": "2025-06-05T09:05:48.794Z"
+    },
+    "bcdc69f04f7c40fa": {
+      "originalText": "Hotfix for chat focus",
+      "hash": "bcdc69f04f7c40fa",
+      "translations": {
+        "ko": "채팅 포커스에 대한 핫픽스"
+      },
+      "createdAt": "2025-06-05T09:05:48.796Z",
+      "updatedAt": "2025-06-05T09:05:48.796Z"
+    },
+    "2894086c836f2c5a": {
+      "originalText": "Jupyter CMD-k Context Building",
+      "hash": "2894086c836f2c5a",
+      "translations": {
+        "ko": "주피터 CMD-k 컨텍스트 빌딩"
+      },
+      "createdAt": "2025-06-05T09:05:48.800Z",
+      "updatedAt": "2025-06-05T09:05:48.800Z"
+    },
+    "e3810207ddb2e197": {
+      "originalText": "Fixed builtin cursor-python defaults",
+      "hash": "e3810207ddb2e197",
+      "translations": {
+        "ko": "내장 커서-python 기본값 수정됨"
+      },
+      "createdAt": "2025-06-05T09:05:48.802Z",
+      "updatedAt": "2025-06-05T09:05:48.802Z"
+    },
+    "263a2d6d2c735e80": {
+      "originalText": "Bug fixes",
+      "hash": "263a2d6d2c735e80",
+      "translations": {
+        "ko": "버그 수정"
+      },
+      "createdAt": "2025-06-05T09:05:48.804Z",
+      "updatedAt": "2025-06-05T09:05:48.804Z"
+    },
+    "d794c492771537b6": {
+      "originalText": "Hotfixes",
+      "hash": "d794c492771537b6",
+      "translations": {
+        "ko": "핫픽스"
+      },
+      "createdAt": "2025-06-05T09:05:48.808Z",
+      "updatedAt": "2025-06-05T09:05:48.819Z"
+    },
+    "fa5f19aa8b8882d7": {
+      "originalText": "More robust extension handling",
+      "hash": "fa5f19aa8b8882d7",
+      "translations": {
+        "ko": "더 강력한 확장 처리"
+      },
+      "createdAt": "2025-06-05T09:05:48.810Z",
+      "updatedAt": "2025-06-05T09:05:48.810Z"
+    },
+    "88d7368a4f44fe36": {
+      "originalText": "Better Context Chat, Faster Copilot++",
+      "hash": "88d7368a4f44fe36",
+      "translations": {
+        "ko": "더 나은 컨텍스트 채팅, 더 빠른 코파일럿++"
+      },
+      "createdAt": "2025-06-05T09:05:48.818Z",
+      "updatedAt": "2025-06-05T09:05:48.818Z"
+    },
+    "dde98686d5d325a4": {
+      "originalText": "Interpreter Mode Windows Bug",
+      "hash": "dde98686d5d325a4",
+      "translations": {
+        "ko": "인터프리터 모드 윈도우 버그"
+      },
+      "createdAt": "2025-06-05T09:05:48.821Z",
+      "updatedAt": "2025-06-05T09:05:48.821Z"
+    },
+    "948d98923e91f0d3": {
+      "originalText": "@folder",
+      "hash": "948d98923e91f0d3",
+      "translations": {
+        "ko": "@폴더"
+      },
+      "createdAt": "2025-06-05T09:05:48.823Z",
+      "updatedAt": "2025-06-05T09:05:48.823Z"
+    },
+    "2e9825f17024965f": {
+      "originalText": "Activity bar can now be vertical",
+      "hash": "2e9825f17024965f",
+      "translations": {
+        "ko": "활동 표시줄이 이제 수직으로 설정할 수 있습니다."
+      },
+      "createdAt": "2025-06-05T09:05:48.828Z",
+      "updatedAt": "2025-06-05T09:05:48.828Z"
+    },
+    "34793430801ebcd4": {
+      "originalText": "Agent is ready and UI refresh",
+      "hash": "34793430801ebcd4",
+      "translations": {
+        "ko": "에이전트가 준비되었고 UI가 새로 고쳐졌습니다"
+      },
+      "createdAt": "2025-06-05T09:05:48.830Z",
+      "updatedAt": "2025-06-05T09:05:48.830Z"
+    },
+    "8207ae15cc045fba": {
+      "originalText": "Activity Bar pinning",
+      "hash": "8207ae15cc045fba",
+      "translations": {
+        "ko": "활동 바 고정"
+      },
+      "createdAt": "2025-06-05T09:05:48.833Z",
+      "updatedAt": "2025-06-05T09:05:48.833Z"
+    },
+    "5d0cd24229c46582": {
+      "originalText": "0.13.4 - New VS Code version",
+      "hash": "5d0cd24229c46582",
+      "translations": {
+        "ko": "0.13.4 - 새로운 VS 코드 버전"
+      },
+      "createdAt": "2025-06-05T09:05:48.836Z",
+      "updatedAt": "2025-06-05T09:05:48.836Z"
+    },
+    "5a94bd00243b21a8": {
+      "originalText": "Codebase indexing controls",
+      "hash": "5a94bd00243b21a8",
+      "translations": {
+        "ko": "코드베이스 인덱싱 제어"
+      },
+      "createdAt": "2025-06-05T09:05:48.841Z",
+      "updatedAt": "2025-06-05T09:05:48.841Z"
+    },
+    "a7e5cdb50505a577": {
+      "originalText": "Followups in edits",
+      "hash": "a7e5cdb50505a577",
+      "translations": {
+        "ko": "수정 사항에 대한 후속 조치"
+      },
+      "createdAt": "2025-06-05T09:05:48.843Z",
+      "updatedAt": "2025-06-05T09:05:48.843Z"
+    },
+    "8fe229997c6f83f3": {
+      "originalText": "v0.2.24 - Minor fixes (2023-06-02)",
+      "hash": "8fe229997c6f83f3",
+      "translations": {
+        "ko": "v0.2.24 - 사소한 수정 (2023-06-02)"
+      },
+      "createdAt": "2025-06-05T09:05:48.845Z",
+      "updatedAt": "2025-06-05T09:05:48.845Z"
+    },
+    "a0978cc7111e42d1": {
+      "originalText": "Automated and improved rules",
+      "hash": "a0978cc7111e42d1",
+      "translations": {
+        "ko": "자동화되고 개선된 규칙"
+      },
+      "createdAt": "2025-06-05T09:05:48.847Z",
+      "updatedAt": "2025-06-05T09:05:48.847Z"
+    },
+    "dbf0adfcd4147a08": {
+      "originalText": "Cursor-Python LSP",
+      "hash": "dbf0adfcd4147a08",
+      "translations": {
+        "ko": "커서-파이썬 LSP"
+      },
+      "createdAt": "2025-06-05T09:05:48.850Z",
+      "updatedAt": "2025-06-05T09:05:48.850Z"
+    },
+    "b9727aa0470bab6e": {
+      "originalText": "GPT-V Windows Bug-fixes",
+      "hash": "b9727aa0470bab6e",
+      "translations": {
+        "ko": "GPT-V 윈도우 버그 수정"
+      },
+      "createdAt": "2025-06-05T09:05:48.853Z",
+      "updatedAt": "2025-06-05T09:05:48.853Z"
+    },
+    "520e25ece6c73e20": {
+      "originalText": "Hotfix for \"with codebase\"",
+      "hash": "520e25ece6c73e20",
+      "translations": {
+        "ko": "\"코드베이스와 함께\"에 대한 핫픽스"
+      },
+      "createdAt": "2025-06-05T09:05:48.855Z",
+      "updatedAt": "2025-06-05T09:05:48.855Z"
+    },
+    "a1d8250679a3c88c": {
+      "originalText": "Improvements to many features, Fixes to Python",
+      "hash": "a1d8250679a3c88c",
+      "translations": {
+        "ko": "많은 기능 개선, Python 수정"
+      },
+      "createdAt": "2025-06-05T09:05:48.868Z",
+      "updatedAt": "2025-06-05T09:05:48.868Z"
+    },
+    "92e8ea6c80cf72c9": {
+      "originalText": "Diffs in AI linter feedback",
+      "hash": "92e8ea6c80cf72c9",
+      "translations": {
+        "ko": "AI 린터 피드백의 차이"
+      },
+      "createdAt": "2025-06-05T09:05:48.872Z",
+      "updatedAt": "2025-06-05T09:05:48.872Z"
+    },
+    "440331860c713adc": {
+      "originalText": "v0.1.7 (2023-03-25)",
+      "hash": "440331860c713adc",
+      "translations": {
+        "ko": "v0.1.7 (2023-03-25)"
+      },
+      "createdAt": "2025-06-05T09:05:48.884Z",
+      "updatedAt": "2025-06-05T09:05:48.884Z"
+    },
+    "6ed8c633713c277f": {
+      "originalText": "Re-enable Cursor Python",
+      "hash": "6ed8c633713c277f",
+      "translations": {
+        "ko": "커서 다시 활성화 파이썬"
+      },
+      "createdAt": "2025-06-05T09:05:48.907Z",
+      "updatedAt": "2025-06-05T09:05:48.907Z"
+    },
+    "8f44e94ee7e70c5f": {
+      "originalText": "Networking Stability, Command-K Autoselect",
+      "hash": "8f44e94ee7e70c5f",
+      "translations": {
+        "ko": "네트워킹 안정성, Command-K 자동 선택"
+      },
+      "createdAt": "2025-06-05T09:05:48.916Z",
+      "updatedAt": "2025-06-05T09:05:48.916Z"
+    },
+    "d1cde2fc22d7aab2": {
+      "originalText": "hanging chat hotfix",
+      "hash": "d1cde2fc22d7aab2",
+      "translations": {
+        "ko": "채팅 중단 핫픽스"
+      },
+      "createdAt": "2025-06-05T09:05:48.940Z",
+      "updatedAt": "2025-06-05T09:05:48.940Z"
+    },
+    "0317c7ba7d33f3eb": {
+      "originalText": "Advanced Button",
+      "hash": "0317c7ba7d33f3eb",
+      "translations": {
+        "ko": "고급 버튼"
+      },
+      "createdAt": "2025-06-05T09:05:48.941Z",
+      "updatedAt": "2025-06-05T09:05:48.941Z"
+    },
+    "688c331c5ad25981": {
+      "originalText": "v0.1.9 (2023-03-27)",
+      "hash": "688c331c5ad25981",
+      "translations": {
+        "ko": "v0.1.9 (2023-03-27)"
+      },
+      "createdAt": "2025-06-05T09:05:48.943Z",
+      "updatedAt": "2025-06-05T09:05:48.943Z"
+    },
+    "edee6efe4f18ec14": {
+      "originalText": "Diff/Generate improvements",
+      "hash": "edee6efe4f18ec14",
+      "translations": {
+        "ko": "차이/생성 개선"
+      },
+      "createdAt": "2025-06-05T09:05:48.945Z",
+      "updatedAt": "2025-06-05T09:05:48.945Z"
+    },
+    "5be9a659b2cc7cf2": {
+      "originalText": "Long files in chat",
+      "hash": "5be9a659b2cc7cf2",
+      "translations": {
+        "ko": "채팅의 긴 파일"
+      },
+      "createdAt": "2025-06-05T09:05:48.949Z",
+      "updatedAt": "2025-06-05T09:05:48.949Z"
+    },
+    "79af5c6f64c0285c": {
+      "originalText": "Experimental: interface agent!",
+      "hash": "79af5c6f64c0285c",
+      "translations": {
+        "ko": "실험적: 인터페이스 에이전트!"
+      },
+      "createdAt": "2025-06-05T09:05:48.950Z",
+      "updatedAt": "2025-06-05T09:05:48.950Z"
+    },
+    "15c1990f9143a42b": {
+      "originalText": "Bug fix for people on language packs",
+      "hash": "15c1990f9143a42b",
+      "translations": {
+        "ko": "언어 팩을 사용하는 사람들을 위한 버그 수정"
+      },
+      "createdAt": "2025-06-05T09:05:48.954Z",
+      "updatedAt": "2025-06-05T09:05:48.954Z"
+    },
+    "fb26c8b7b87b67b3": {
+      "originalText": "Improved Copilot++ UX, New GPT-4 Model",
+      "hash": "fb26c8b7b87b67b3",
+      "translations": {
+        "ko": "개선된 Copilot++ 사용자 경험, 새로운 GPT-4 모델"
+      },
+      "createdAt": "2025-06-05T09:05:48.988Z",
+      "updatedAt": "2025-06-05T09:05:48.988Z"
+    },
+    "d38246aa624c63d9": {
+      "originalText": "Quick question and @chat in cmd+k",
+      "hash": "d38246aa624c63d9",
+      "translations": {
+        "ko": "간단한 질문과 @채팅 cmd+k에서"
+      },
+      "createdAt": "2025-06-05T09:05:48.993Z",
+      "updatedAt": "2025-06-05T09:05:48.993Z"
+    },
+    "9ab871fc3e8993a6": {
+      "originalText": "Lowercase @ Folders Fix",
+      "hash": "9ab871fc3e8993a6",
+      "translations": {
+        "ko": "소문자 @ 폴더 수정"
+      },
+      "createdAt": "2025-06-05T09:05:48.994Z",
+      "updatedAt": "2025-06-05T09:05:48.994Z"
+    },
+    "ef0991f17bfa1ea9": {
+      "originalText": "@Web, gpt-4-0125-preview",
+      "hash": "ef0991f17bfa1ea9",
+      "translations": {
+        "ko": "@웹, gpt-4-0125-미리보기"
+      },
+      "createdAt": "2025-06-05T09:05:48.997Z",
+      "updatedAt": "2025-06-05T09:05:48.997Z"
+    },
+    "43a7fcec006f1ef5": {
+      "originalText": "Instant Applies, Docs Management",
+      "hash": "43a7fcec006f1ef5",
+      "translations": {
+        "ko": "즉시 적용, 문서 관리"
+      },
+      "createdAt": "2025-06-05T09:05:49.001Z",
+      "updatedAt": "2025-06-05T09:05:49.001Z"
+    },
+    "b3e2ad2158380989": {
+      "originalText": "0.18.5 - Onboarding & Feedback",
+      "hash": "b3e2ad2158380989",
+      "translations": {
+        "ko": "0.18.5 - 온보딩 및 피드백"
+      },
+      "createdAt": "2025-06-05T09:05:49.003Z",
+      "updatedAt": "2025-06-05T09:05:49.003Z"
+    },
+    "5d76904f98924950": {
+      "originalText": "Dev Containers",
+      "hash": "5d76904f98924950",
+      "translations": {
+        "ko": "개발 컨테이너"
+      },
+      "createdAt": "2025-06-05T09:05:49.006Z",
+      "updatedAt": "2025-06-05T09:05:49.006Z"
+    },
+    "f17881b8ddc01e6b": {
+      "originalText": "More robust SSH support",
+      "hash": "f17881b8ddc01e6b",
+      "translations": {
+        "ko": "더 강력한 SSH 지원"
+      },
+      "createdAt": "2025-06-05T09:05:49.013Z",
+      "updatedAt": "2025-06-05T09:05:49.013Z"
+    },
+    "b3459095de09fe2e": {
+      "originalText": "0.11.8 - Patches",
+      "hash": "b3459095de09fe2e",
+      "translations": {
+        "ko": "0.11.8 - 패치"
+      },
+      "createdAt": "2025-06-05T09:05:49.018Z",
+      "updatedAt": "2025-06-05T09:05:49.018Z"
+    },
+    "f7ce1601188f19c7": {
+      "originalText": "Image Support, Interpreter Mode Beta, @ Folders",
+      "hash": "f7ce1601188f19c7",
+      "translations": {
+        "ko": "이미지 지원, 인터프리터 모드 베타, @ 폴더"
+      },
+      "createdAt": "2025-06-05T09:05:49.024Z",
+      "updatedAt": "2025-06-05T09:05:49.024Z"
+    },
+    "9fc8b80e2e213816": {
+      "originalText": "& 0.4.2 - Hotfixes",
+      "hash": "9fc8b80e2e213816",
+      "translations": {
+        "ko": "& 0.4.2 - 핫픽스"
+      },
+      "createdAt": "2025-06-05T09:05:49.042Z",
+      "updatedAt": "2025-06-05T09:05:49.042Z"
+    },
+    "453baf7ebcefc9d1": {
+      "originalText": "Pro++, Word-wrapping diffs, and more",
+      "hash": "453baf7ebcefc9d1",
+      "translations": {
+        "ko": "Pro++, 단어 줄바꿈 차이 및 기타"
+      },
+      "createdAt": "2025-06-05T09:05:49.044Z",
+      "updatedAt": "2025-06-05T09:05:49.044Z"
+    },
+    "ab77023f43786951": {
+      "originalText": "Composer History, @Lint Errors, VS Code 1.93.1",
+      "hash": "ab77023f43786951",
+      "translations": {
+        "ko": "작곡가 역사, @Lint 오류, VS 코드 1.93.1"
+      },
+      "createdAt": "2025-06-05T09:05:49.046Z",
+      "updatedAt": "2025-06-05T09:05:49.046Z"
+    },
+    "0c47b0deef0f80e5": {
+      "originalText": "New models",
+      "hash": "0c47b0deef0f80e5",
+      "translations": {
+        "ko": "새로운 모델"
+      },
+      "createdAt": "2025-06-05T09:05:49.050Z",
+      "updatedAt": "2025-06-05T09:05:49.050Z"
+    },
+    "2857b2a6294634f9": {
+      "originalText": "v0.1.5 (2023-03-23)",
+      "hash": "2857b2a6294634f9",
+      "translations": {
+        "ko": "v0.1.5 (2023-03-23)"
+      },
+      "createdAt": "2025-06-05T09:05:49.062Z",
+      "updatedAt": "2025-06-05T09:05:49.062Z"
+    },
+    "39558eb065a2e047": {
+      "originalText": "ARM Windows Cmd-Shift-F",
+      "hash": "39558eb065a2e047",
+      "translations": {
+        "ko": "ARM 윈도우 Cmd-Shift-F"
+      },
+      "createdAt": "2025-06-05T09:05:49.064Z",
+      "updatedAt": "2025-06-05T09:05:49.064Z"
+    },
+    "fc4d8c4af02d9911": {
+      "originalText": "Cursor Tab Python Auto Import, Composer Improvements, Remote SSH to Mac Support",
+      "hash": "fc4d8c4af02d9911",
+      "translations": {
+        "ko": "커서 탭 파이썬 자동 가져오기, 컴포저 개선, 원격 SSH 맥 지원"
+      },
+      "createdAt": "2025-06-05T09:05:49.065Z",
+      "updatedAt": "2025-06-05T09:05:49.065Z"
+    },
+    "0273fd8288fe726c": {
+      "originalText": "Better support for remote-ssh",
+      "hash": "0273fd8288fe726c",
+      "translations": {
+        "ko": "원격 SSH에 대한 더 나은 지원"
+      },
+      "createdAt": "2025-06-05T09:05:49.068Z",
+      "updatedAt": "2025-06-05T09:05:49.068Z"
+    },
+    "bb51244bba9553fc": {
+      "originalText": "Cursor Python and Cursor Marketplace",
+      "hash": "bb51244bba9553fc",
+      "translations": {
+        "ko": "커서 파이썬과 커서 마켓플레이스"
+      },
+      "createdAt": "2025-06-05T09:05:49.083Z",
+      "updatedAt": "2025-06-05T09:05:49.083Z"
+    },
+    "6181eed055d49b11": {
+      "originalText": "Chat v2",
+      "hash": "6181eed055d49b11",
+      "translations": {
+        "ko": "채팅 v2"
+      },
+      "createdAt": "2025-06-05T09:05:49.085Z",
+      "updatedAt": "2025-06-05T09:05:49.085Z"
+    },
+    "7f2e7e38d40367dc": {
+      "originalText": "New onboarding",
+      "hash": "7f2e7e38d40367dc",
+      "translations": {
+        "ko": "새로운 온보딩"
+      },
+      "createdAt": "2025-06-05T09:05:49.107Z",
+      "updatedAt": "2025-06-05T09:05:49.107Z"
+    },
+    "a6ba9f9ea13698bd": {
+      "originalText": "v0.0.37 (2023-03-14)",
+      "hash": "a6ba9f9ea13698bd",
+      "translations": {
+        "ko": "v0.0.37 (2023-03-14)"
+      },
+      "createdAt": "2025-06-05T09:05:49.115Z",
+      "updatedAt": "2025-06-05T09:05:49.115Z"
+    },
+    "1ed73e118f359cfc": {
+      "originalText": "Better State Management",
+      "hash": "1ed73e118f359cfc",
+      "translations": {
+        "ko": "더 나은 상태 관리"
+      },
+      "createdAt": "2025-06-05T09:05:49.117Z",
+      "updatedAt": "2025-06-05T09:05:49.117Z"
+    },
+    "05a89696391a28ec": {
+      "originalText": "v0.1.6 (2023-03-24)",
+      "hash": "05a89696391a28ec",
+      "translations": {
+        "ko": "v0.1.6 (2023-03-24)"
+      },
+      "createdAt": "2025-06-05T09:05:49.120Z",
+      "updatedAt": "2025-06-05T09:05:49.120Z"
+    },
+    "c1de340e8db68dd1": {
+      "originalText": "Default-on Cursor Prediction, Remote Tunnels & More Robust SSH",
+      "hash": "c1de340e8db68dd1",
+      "translations": {
+        "ko": "기본 활성화 커서 예측, 원격 터널 및 더 강력한 SSH"
+      },
+      "createdAt": "2025-06-05T09:05:49.170Z",
+      "updatedAt": "2025-06-05T09:05:49.170Z"
+    },
+    "71074ae25ec85aa4": {
+      "originalText": "Linter, Interpreter Mode Updates",
+      "hash": "71074ae25ec85aa4",
+      "translations": {
+        "ko": "린터, 인터프리터 모드 업데이트"
+      },
+      "createdAt": "2025-06-05T09:05:49.172Z",
+      "updatedAt": "2025-06-05T09:05:49.172Z"
+    },
+    "47e76863c7e5d7e6": {
+      "originalText": "Copilot++, @ previews, AI Review",
+      "hash": "47e76863c7e5d7e6",
+      "translations": {
+        "ko": "코파일럿++, @ 미리보기, AI 리뷰"
+      },
+      "createdAt": "2025-06-05T09:05:49.174Z",
+      "updatedAt": "2025-06-05T09:05:49.174Z"
+    },
+    "2b204878b8bb6b6e": {
+      "originalText": "& 0.7.6-nightly - Fix cmd-k generate with large file",
+      "hash": "2b204878b8bb6b6e",
+      "translations": {
+        "ko": "& 0.7.6-nightly - 큰 파일로 cmd-k 생성 수정"
+      },
+      "createdAt": "2025-06-05T09:05:49.175Z",
+      "updatedAt": "2025-06-05T09:05:49.175Z"
+    },
+    "92c84cc8921acdc3": {
+      "originalText": "Agent Improvements, Yolo Mode, Cursor Tab Update",
+      "hash": "92c84cc8921acdc3",
+      "translations": {
+        "ko": "에이전트 개선, 요로 모드, 커서 탭 업데이트"
+      },
+      "createdAt": "2025-06-05T09:05:49.182Z",
+      "updatedAt": "2025-06-05T09:05:49.182Z"
+    },
+    "bf0e637fa543d4dd": {
+      "originalText": "Faster Copilot++, Claude",
+      "hash": "bf0e637fa543d4dd",
+      "translations": {
+        "ko": "더 빠른 코파일럿++, 클로드"
+      },
+      "createdAt": "2025-06-05T09:05:49.196Z",
+      "updatedAt": "2025-06-05T09:05:49.196Z"
+    },
+    "1e93a186bd792086": {
+      "originalText": "Usage-based cost visibility",
+      "hash": "1e93a186bd792086",
+      "translations": {
+        "ko": "사용 기반 비용 가시성"
+      },
+      "createdAt": "2025-06-05T09:05:49.201Z",
+      "updatedAt": "2025-06-05T09:05:49.201Z"
+    },
+    "435aed4f45ba1c2b": {
+      "originalText": "v0.1.2-0.1.3 (2023-03-18)",
+      "hash": "435aed4f45ba1c2b",
+      "translations": {
+        "ko": "v0.1.2-0.1.3 (2023-03-18)"
+      },
+      "createdAt": "2025-06-05T09:05:49.202Z",
+      "updatedAt": "2025-06-05T09:05:49.202Z"
+    },
+    "d4247b53a8d4dbeb": {
+      "originalText": "Improved agent terminal control",
+      "hash": "d4247b53a8d4dbeb",
+      "translations": {
+        "ko": "개선된 에이전트 터미널 제어"
+      },
+      "createdAt": "2025-06-05T09:05:49.206Z",
+      "updatedAt": "2025-06-05T09:05:49.206Z"
+    },
+    "a48f699153437845": {
+      "originalText": "v0.2.17 - Fixes! (2023-05-018)",
+      "hash": "a48f699153437845",
+      "translations": {
+        "ko": "v0.2.17 - 수정사항! (2023-05-018)"
+      },
+      "createdAt": "2025-06-05T09:05:49.208Z",
+      "updatedAt": "2025-06-05T09:05:49.208Z"
+    },
+    "1e84e56efde43877": {
+      "originalText": "Hotfix Github Auth",
+      "hash": "1e84e56efde43877",
+      "translations": {
+        "ko": "핫픽스 깃허브 인증"
+      },
+      "createdAt": "2025-06-05T09:05:49.244Z",
+      "updatedAt": "2025-06-05T09:05:49.244Z"
+    },
+    "51a6750475c1e41a": {
+      "originalText": "Chat tabs, Custom modes & Faster indexing",
+      "hash": "51a6750475c1e41a",
+      "translations": {
+        "ko": "채팅 탭, 사용자 정의 모드 및 빠른 인덱싱"
+      },
+      "createdAt": "2025-06-05T09:05:49.273Z",
+      "updatedAt": "2025-06-05T09:05:49.273Z"
+    },
+    "5bec95bea8dda683": {
+      "originalText": "Jupyter Import Fix",
+      "hash": "5bec95bea8dda683",
+      "translations": {
+        "ko": "주피터 임포트 수정"
+      },
+      "createdAt": "2025-06-05T09:05:49.275Z",
+      "updatedAt": "2025-06-05T09:05:49.275Z"
+    },
+    "71857e7adf853ca7": {
+      "originalText": "v0.1.11 (2023-03-28)",
+      "hash": "71857e7adf853ca7",
+      "translations": {
+        "ko": "v0.1.11 (2023-03-28)"
+      },
+      "createdAt": "2025-06-05T09:05:49.313Z",
+      "updatedAt": "2025-06-05T09:05:49.313Z"
+    },
+    "89e16e84167089fc": {
+      "originalText": "v0.1.10 (2023-03-28)",
+      "hash": "89e16e84167089fc",
+      "translations": {
+        "ko": "v0.1.10 (2023-03-28)"
+      },
+      "createdAt": "2025-06-05T09:05:49.315Z",
+      "updatedAt": "2025-06-05T09:05:49.315Z"
+    },
+    "316c3f9e2eb66c2c": {
+      "originalText": "Rules generation, improved agent terminal and MCP images",
+      "hash": "316c3f9e2eb66c2c",
+      "translations": {
+        "ko": "규칙 생성, 개선된 에이전트 터미널 및 MCP 이미지"
+      },
+      "createdAt": "2025-06-05T09:05:49.318Z",
+      "updatedAt": "2025-06-05T09:05:49.318Z"
+    },
+    "9e8c1c00f6a53103": {
+      "originalText": "New Model, Apply Button v2",
+      "hash": "9e8c1c00f6a53103",
+      "translations": {
+        "ko": "새 모델, 적용 버튼 v2"
+      },
+      "createdAt": "2025-06-05T09:05:49.321Z",
+      "updatedAt": "2025-06-05T09:05:49.321Z"
+    },
+    "b44d76e672e94665": {
+      "originalText": "️ Quality of Life Improvements",
+      "hash": "b44d76e672e94665",
+      "translations": {
+        "ko": "삶의 질 향상"
+      },
+      "createdAt": "2025-06-05T09:05:49.342Z",
+      "updatedAt": "2025-06-05T09:05:49.342Z"
+    },
+    "2100e2e8f682b9ae": {
+      "originalText": "0.6.2-nightly - Improved linter",
+      "hash": "2100e2e8f682b9ae",
+      "translations": {
+        "ko": "0.6.2-야간 빌드 - 개선된 린터"
+      },
+      "createdAt": "2025-06-05T09:05:49.365Z",
+      "updatedAt": "2025-06-05T09:05:49.365Z"
+    },
+    "788f66a2d52889c0": {
+      "originalText": ".cursor/rules, Better Codebase Understanding, New Tab Model",
+      "hash": "788f66a2d52889c0",
+      "translations": {
+        "ko": ".cursor/규칙, 더 나은 코드베이스 이해, 새로운 탭 모델"
+      },
+      "createdAt": "2025-06-05T09:05:49.399Z",
+      "updatedAt": "2025-06-05T09:05:49.399Z"
+    },
+    "52ea3176ee50a3db": {
+      "originalText": "Patch for WSL/SSH (Search and Extensions)",
+      "hash": "52ea3176ee50a3db",
+      "translations": {
+        "ko": "WSL/SSH용 패치 (검색 및 확장)"
+      },
+      "createdAt": "2025-06-05T09:05:49.401Z",
+      "updatedAt": "2025-06-05T09:05:49.401Z"
+    },
+    "feea6f47a540fc26": {
+      "originalText": "0.7.10-nightly - Long-file experience",
+      "hash": "feea6f47a540fc26",
+      "translations": {
+        "ko": "0.7.10-야간 빌드 - 긴 파일 경험"
+      },
+      "createdAt": "2025-06-05T09:05:49.422Z",
+      "updatedAt": "2025-06-05T09:05:49.422Z"
+    },
+    "7cd91dbc1cb16660": {
+      "originalText": "Hotfix Cmd-K unexpectedly outputting backticks",
+      "hash": "7cd91dbc1cb16660",
+      "translations": {
+        "ko": "핫픽스 Cmd-K가 예기치 않게 백틱을 출력하고 있습니다."
+      },
+      "createdAt": "2025-06-05T09:05:49.430Z",
+      "updatedAt": "2025-06-05T09:05:49.430Z"
+    },
+    "6a508fc9c832ac7a": {
+      "originalText": "0.10.3 - Reduce extension recommendations",
+      "hash": "6a508fc9c832ac7a",
+      "translations": {
+        "ko": "0.10.3 - 확장 프로그램 추천 감소"
+      },
+      "createdAt": "2025-06-05T09:05:49.447Z",
+      "updatedAt": "2025-06-05T09:05:49.447Z"
+    },
+    "c8f7a4914d508ef6": {
+      "originalText": "v0.2.2 - Bug Fixes Galore (2023-04-07)",
+      "hash": "c8f7a4914d508ef6",
+      "translations": {
+        "ko": "v0.2.2 - 버그 수정 대량 발생 (2023-04-07)"
+      },
+      "createdAt": "2025-06-05T09:05:49.479Z",
+      "updatedAt": "2025-06-05T09:05:49.479Z"
+    },
+    "9eda3e9a6b58ecc2": {
+      "originalText": "v0.2.18 - Upgrades to GPT-4 and Please give us feedback!! (2023-05-20)",
+      "hash": "9eda3e9a6b58ecc2",
+      "translations": {
+        "ko": "v0.2.18 - GPT-4로 업그레이드 및 피드백 부탁드립니다!! (2023-05-20)"
+      },
+      "createdAt": "2025-06-05T09:05:49.481Z",
+      "updatedAt": "2025-06-05T09:05:49.481Z"
+    },
+    "d4c4c7ed22a0e8bf": {
+      "originalText": "Reliability, Keyboard Shortcuts & Early access opt-in",
+      "hash": "d4c4c7ed22a0e8bf",
+      "translations": {
+        "ko": "신뢰성, 키보드 단축키 및 조기 액세스 옵션"
+      },
+      "createdAt": "2025-06-05T09:05:49.483Z",
+      "updatedAt": "2025-06-05T09:05:49.483Z"
+    },
+    "44bbb4fb8e6732c0": {
+      "originalText": "v0.2.4 - Chat Scrolling & Ghost Mode (2023-04-16)",
+      "hash": "44bbb4fb8e6732c0",
+      "translations": {
+        "ko": "v0.2.4 - 채팅 스크롤 및 유령 모드 (2023-04-16)"
+      },
+      "createdAt": "2025-06-05T09:05:49.486Z",
+      "updatedAt": "2025-06-05T09:05:49.486Z"
+    },
+    "8d8fe22cb45410e1": {
+      "originalText": "v0.2.11 - Enhanced Chat Experience (2023-05-09)",
+      "hash": "8d8fe22cb45410e1",
+      "translations": {
+        "ko": "v0.2.11 - 향상된 채팅 경험 (2023-05-09)"
+      },
+      "createdAt": "2025-06-05T09:05:49.496Z",
+      "updatedAt": "2025-06-05T09:05:49.496Z"
+    },
+    "8dcce443d8a82afe": {
+      "originalText": "Copilot++ Chunked Streaming (beta), Composer improvements",
+      "hash": "8dcce443d8a82afe",
+      "translations": {
+        "ko": "Copilot++ 청크 스트리밍(베타), 컴포저 개선"
+      },
+      "createdAt": "2025-06-05T09:05:49.556Z",
+      "updatedAt": "2025-06-05T09:05:49.556Z"
+    },
+    "4454f4a12e4b8fb4": {
+      "originalText": "New Composer UI, Agent, Commit Messages",
+      "hash": "4454f4a12e4b8fb4",
+      "translations": {
+        "ko": "새로운 작곡가 UI, 에이전트, 커밋 메시지"
+      },
+      "createdAt": "2025-06-05T09:05:49.563Z",
+      "updatedAt": "2025-06-05T09:05:49.563Z"
+    },
+    "38dc06b52282ceb8": {
+      "originalText": "\"with codebase\" for all codebases!",
+      "hash": "38dc06b52282ceb8",
+      "translations": {
+        "ko": "모든 코드베이스에 대한 '코드베이스와 함께'!"
+      },
+      "createdAt": "2025-06-05T09:05:49.564Z",
+      "updatedAt": "2025-06-05T09:05:49.564Z"
+    },
+    "73496857327b3e6e": {
+      "originalText": "& 0.7.5-nightly - Fix: Cursor in the wrong place",
+      "hash": "73496857327b3e6e",
+      "translations": {
+        "ko": "& 0.7.5-야간 - 수정: 커서 위치 오류"
+      },
+      "createdAt": "2025-06-05T09:05:49.569Z",
+      "updatedAt": "2025-06-05T09:05:49.569Z"
+    },
+    "df6a73c5e1efd93a": {
+      "originalText": "Indexing, cmd-k in terminal, @git, /edit, bugfixes",
+      "hash": "df6a73c5e1efd93a",
+      "translations": {
+        "ko": "인덱싱, 터미널에서 cmd-k, @git, /edit, 버그 수정"
+      },
+      "createdAt": "2025-06-05T09:05:49.571Z",
+      "updatedAt": "2025-06-05T09:05:49.571Z"
+    },
+    "31bdd5a889f93303": {
+      "originalText": "Please give us feedback!!",
+      "hash": "31bdd5a889f93303",
+      "translations": {
+        "ko": "피드백을 주세요!!"
+      },
+      "createdAt": "2025-06-05T09:05:49.623Z",
+      "updatedAt": "2025-06-05T09:05:49.623Z"
+    },
+    "fb9cc76faceb81fc": {
+      "originalText": "New Chat UX, Default-On Composer, New Cursor Tab Model",
+      "hash": "fb9cc76faceb81fc",
+      "translations": {
+        "ko": "새로운 채팅 UX, 기본 활성화된 작곡기, 새로운 커서 탭 모델"
+      },
+      "createdAt": "2025-06-05T09:05:49.639Z",
+      "updatedAt": "2025-06-05T09:05:49.639Z"
+    },
+    "1d9043e92d1d5506": {
+      "originalText": "v0.2.8 - Multi-File Diffs & Remote SSH (2023-04-29)",
+      "hash": "1d9043e92d1d5506",
+      "translations": {
+        "ko": "v0.2.8 - 다중 파일 차이 및 원격 SSH (2023-04-29)"
+      },
+      "createdAt": "2025-06-05T09:05:49.673Z",
+      "updatedAt": "2025-06-05T09:05:49.673Z"
+    },
+    "2257ae1cef7ea083": {
+      "originalText": "v0.2.0 - Introducing Cursor 0.2.0! (2023-04-06)",
+      "hash": "2257ae1cef7ea083",
+      "translations": {
+        "ko": "v0.2.0 - 커서 0.2.0을 소개합니다! (2023-04-06)"
+      },
+      "createdAt": "2025-06-05T09:05:49.676Z",
+      "updatedAt": "2025-06-05T09:05:49.676Z"
+    },
+    "d03584aa6e260e0e": {
+      "originalText": "A copilot experience powered by gpt-4",
+      "hash": "d03584aa6e260e0e",
+      "translations": {
+        "ko": "GPT-4로 구동되는 코파일럿 경험"
+      },
+      "createdAt": "2025-06-05T09:05:49.678Z",
+      "updatedAt": "2025-06-05T09:05:49.678Z"
+    },
+    "b705959ef093559e": {
+      "originalText": "gitignore and search hotfix",
+      "hash": "b705959ef093559e",
+      "translations": {
+        "ko": "gitignore 및 검색 핫픽스"
+      },
+      "createdAt": "2025-06-05T09:05:49.679Z",
+      "updatedAt": "2025-06-05T09:05:49.679Z"
+    },
+    "a20b0f3522186150": {
+      "originalText": "v0.2.16 - Terminal Debugger, and our biggest bug bash yet (v0.2.12)",
+      "hash": "a20b0f3522186150",
+      "translations": {
+        "ko": "v0.2.16 - 터미널 디버거, 그리고 지금까지의 가장 큰 버그 수정 행사(v0.2.12)"
+      },
+      "createdAt": "2025-06-05T09:05:49.695Z",
+      "updatedAt": "2025-06-05T09:05:49.695Z"
+    },
+    "f5195486e472bc60": {
+      "originalText": "v0.1.12 (2023-03-30)",
+      "hash": "f5195486e472bc60",
+      "translations": {
+        "ko": "v0.1.12 (2023-03-30)"
+      },
+      "createdAt": "2025-06-05T09:05:49.717Z",
+      "updatedAt": "2025-06-05T09:05:49.717Z"
+    },
+    "2ed3daa93e2051a0": {
+      "originalText": "Faster Cursor Tab, More Composer improvements",
+      "hash": "2ed3daa93e2051a0",
+      "translations": {
+        "ko": "더 빠른 커서 탭, 더 많은 작곡가 개선"
+      },
+      "createdAt": "2025-06-05T09:05:49.746Z",
+      "updatedAt": "2025-06-05T09:05:49.746Z"
+    },
+    "3271afc73db30b01": {
+      "originalText": "v0.2.23 - AI Linting (2023-06-01)",
+      "hash": "3271afc73db30b01",
+      "translations": {
+        "ko": "v0.2.23 - AI 린팅 (2023-06-01)"
+      },
+      "createdAt": "2025-06-05T09:05:49.748Z",
+      "updatedAt": "2025-06-05T09:05:49.748Z"
+    },
+    "96b862f784b5d8c0": {
+      "originalText": "Copilot++ improvements and VS Code 1.84.2",
+      "hash": "96b862f784b5d8c0",
+      "translations": {
+        "ko": "Copilot++ 개선 사항 및 VS Code 1.84.2"
+      },
+      "createdAt": "2025-06-05T09:05:49.799Z",
+      "updatedAt": "2025-06-05T09:05:49.799Z"
+    },
+    "8261b26b71d7db14": {
+      "originalText": "v0.2.5 - Scroll Bar Hotfix (2023-04-17)",
+      "hash": "8261b26b71d7db14",
+      "translations": {
+        "ko": "v0.2.5 - 스크롤 바 핫픽스 (2023-04-17)"
+      },
+      "createdAt": "2025-06-05T09:05:49.801Z",
+      "updatedAt": "2025-06-05T09:05:49.801Z"
+    },
+    "46c2022f07d88dec": {
+      "originalText": "0.15.5 - Copilot++ improvements, Bug fixes",
+      "hash": "46c2022f07d88dec",
+      "translations": {
+        "ko": "0.15.5 - Copilot++ 개선, 버그 수정"
+      },
+      "createdAt": "2025-06-05T09:05:49.807Z",
+      "updatedAt": "2025-06-05T09:05:49.807Z"
+    },
+    "8bb6b3b8a532fc24": {
+      "originalText": "0.16.9-nightly - Interpreter Mode Windows Bug Fixes",
+      "hash": "8bb6b3b8a532fc24",
+      "translations": {
+        "ko": "0.16.9-야간 - 인터프리터 모드 윈도우 버그 수정"
+      },
+      "createdAt": "2025-06-05T09:05:49.831Z",
+      "updatedAt": "2025-06-05T09:05:49.831Z"
+    },
+    "2f987bbb94a267c5": {
+      "originalText": "0.6.6-nightly - New cmd-K keybindings",
+      "hash": "2f987bbb94a267c5",
+      "translations": {
+        "ko": "0.6.6-야간 - 새로운 cmd-K 키 바인딩"
+      },
+      "createdAt": "2025-06-05T09:05:49.840Z",
+      "updatedAt": "2025-06-05T09:05:49.840Z"
+    },
+    "1105905cc88f9edf": {
+      "originalText": "v0.2.3 - Enhanced Error Handling (2023-04-14)",
+      "hash": "1105905cc88f9edf",
+      "translations": {
+        "ko": "v0.2.3 - 향상된 오류 처리 (2023-04-14)"
+      },
+      "createdAt": "2025-06-05T09:05:49.844Z",
+      "updatedAt": "2025-06-05T09:05:49.844Z"
+    },
+    "66744e82c8eef97a": {
+      "originalText": "v0.2.25 - Hot-fix for extensions (2023-06-03)",
+      "hash": "66744e82c8eef97a",
+      "translations": {
+        "ko": "v0.2.25 - 확장 프로그램에 대한 핫픽스 (2023-06-03)"
+      },
+      "createdAt": "2025-06-05T09:05:49.948Z",
+      "updatedAt": "2025-06-05T09:05:49.948Z"
+    },
+    "07d1f1933af596cf": {
+      "originalText": "Advanced context for codebase-wide chat",
+      "hash": "07d1f1933af596cf",
+      "translations": {
+        "ko": "코드베이스 전체 채팅을 위한 고급 컨텍스트"
+      },
+      "createdAt": "2025-06-05T09:05:49.991Z",
+      "updatedAt": "2025-06-05T09:05:49.991Z"
+    },
+    "2e04cfdc1c32fbc1": {
+      "originalText": "v0.2.1 - More Bug Fixes (2023-04-06)",
+      "hash": "2e04cfdc1c32fbc1",
+      "translations": {
+        "ko": "v0.2.1 - 더 많은 버그 수정 (2023-04-06)"
+      },
+      "createdAt": "2025-06-05T09:05:50.037Z",
+      "updatedAt": "2025-06-05T09:05:50.037Z"
+    },
+    "b0a12d7993b2231a": {
+      "originalText": "v0.2.6 - GPT-4 & Project Generation (2023-04-19)",
+      "hash": "b0a12d7993b2231a",
+      "translations": {
+        "ko": "v0.2.6 - GPT-4 및 프로젝트 생성 (2023-04-19)"
+      },
+      "createdAt": "2025-06-05T09:05:50.042Z",
+      "updatedAt": "2025-06-05T09:05:50.042Z"
+    },
+    "e31459fe597c352c": {
+      "originalText": "Cmd-k Followups, chat with large files, and more",
+      "hash": "e31459fe597c352c",
+      "translations": {
+        "ko": "Cmd-k 후속 작업, 대용량 파일과의 채팅, 그리고 더 많은 기능"
+      },
+      "createdAt": "2025-06-05T09:05:50.138Z",
+      "updatedAt": "2025-06-05T09:05:50.138Z"
+    },
+    "d762ccf9785143d3": {
+      "originalText": "Auditable codebase context, VS Code left bar",
+      "hash": "d762ccf9785143d3",
+      "translations": {
+        "ko": "감사 가능한 코드베이스 컨텍스트, VS 코드 왼쪽 바"
+      },
+      "createdAt": "2025-06-05T09:05:50.297Z",
+      "updatedAt": "2025-06-05T09:05:50.297Z"
+    },
+    "e2dfb4a5034d56cb": {
+      "originalText": "VS Code 1.89, New Cursor Prediction UI, Gemini 1.5 Flash, Copilot++ partial completion",
+      "hash": "e2dfb4a5034d56cb",
+      "translations": {
+        "ko": "VS 코드 1.89, 새로운 커서 예측 UI, 제미니 1.5 플래시, 코파일럿++ 부분 완성"
+      },
+      "createdAt": "2025-06-05T09:05:50.390Z",
+      "updatedAt": "2025-06-05T09:05:50.390Z"
+    },
+    "1ebf185182c11581": {
+      "originalText": "Fix Onboarding for Option Edits",
+      "hash": "1ebf185182c11581",
+      "translations": {
+        "ko": "옵션 수정에 대한 온보딩 수정"
+      },
+      "createdAt": "2025-06-05T09:05:50.410Z",
+      "updatedAt": "2025-06-05T09:05:50.410Z"
+    },
+    "b617d8910e6d23df": {
+      "originalText": "v0.2.9 - Enhanced Features & Improvements (2023-05-04)",
+      "hash": "b617d8910e6d23df",
+      "translations": {
+        "ko": "v0.2.9 - 향상된 기능 및 개선 사항 (2023-05-04)"
+      },
+      "createdAt": "2025-06-05T09:05:50.453Z",
+      "updatedAt": "2025-06-05T09:05:50.453Z"
+    },
+    "6f619bfcb1266c12": {
+      "originalText": "v0.2.10 - Crucial Bug Fixes (2023-05-06)",
+      "hash": "6f619bfcb1266c12",
+      "translations": {
+        "ko": "v0.2.10 - 중요한 버그 수정 (2023-05-06)"
+      },
+      "createdAt": "2025-06-05T09:05:50.532Z",
+      "updatedAt": "2025-06-05T09:05:50.532Z"
+    },
+    "299bb02928c96247": {
+      "originalText": "Patch for Cmd-k Generates",
+      "hash": "299bb02928c96247",
+      "translations": {
+        "ko": "Cmd-k 생성을 위한 패치"
+      },
+      "createdAt": "2025-06-05T09:05:50.555Z",
+      "updatedAt": "2025-06-05T09:05:50.555Z"
+    },
+    "a39a8fedc51adf49": {
+      "originalText": "Hotfix for indexing",
+      "hash": "a39a8fedc51adf49",
+      "translations": {
+        "ko": "인덱싱을 위한 핫픽스"
+      },
+      "createdAt": "2025-06-05T09:05:50.580Z",
+      "updatedAt": "2025-06-05T09:05:50.580Z"
+    },
+    "f48606d5693acde7": {
+      "originalText": "infinite chat loop hotfix",
+      "hash": "f48606d5693acde7",
+      "translations": {
+        "ko": "무한 채팅 루프 핫픽스"
+      },
+      "createdAt": "2025-06-05T09:05:50.601Z",
+      "updatedAt": "2025-06-05T09:05:50.601Z"
+    },
+    "0029fcfd5992af36": {
+      "originalText": "VS Code 1.86.2",
+      "hash": "0029fcfd5992af36",
+      "translations": {
+        "ko": "VS 코드 1.86.2"
+      },
+      "createdAt": "2025-06-05T09:05:50.996Z",
+      "updatedAt": "2025-06-05T09:05:50.996Z"
+    },
+    "77e5637d3f9b816b": {
+      "originalText": "& 0.2.29 - Codebase Context fixes",
+      "hash": "77e5637d3f9b816b",
+      "translations": {
+        "ko": "& 0.2.29 - 코드베이스 컨텍스트 수정"
+      },
+      "createdAt": "2025-06-05T09:05:51.061Z",
+      "updatedAt": "2025-06-05T09:05:51.061Z"
+    },
+    "49c68d7111b65d5e": {
+      "originalText": "New inline edits",
+      "hash": "49c68d7111b65d5e",
+      "translations": {
+        "ko": "새로운 인라인 편집"
+      },
+      "createdAt": "2025-06-05T09:05:51.082Z",
+      "updatedAt": "2025-06-05T09:05:51.082Z"
+    },
+    "2a9ceaeb83d15f14": {
+      "originalText": "Faster indexing",
+      "hash": "2a9ceaeb83d15f14",
+      "translations": {
+        "ko": "더 빠른 인덱싱"
+      },
+      "createdAt": "2025-06-05T09:05:51.085Z",
+      "updatedAt": "2025-06-05T09:05:51.085Z"
+    },
+    "7c44b94f72c22934": {
+      "originalText": "0.12.3 - Small fixes",
+      "hash": "7c44b94f72c22934",
+      "translations": {
+        "ko": "0.12.3 - 작은 수정"
+      },
+      "createdAt": "2025-06-05T09:05:51.087Z",
+      "updatedAt": "2025-06-05T09:05:51.087Z"
+    },
+    "21dee2947baa3b43": {
+      "originalText": "0.6.4-nightly - In-editor chat is back!",
+      "hash": "21dee2947baa3b43",
+      "translations": {
+        "ko": "0.6.4-야간 빌드 - 에디터 내 채팅이 돌아왔습니다!"
+      },
+      "createdAt": "2025-06-05T09:05:51.291Z",
+      "updatedAt": "2025-06-05T09:05:51.291Z"
+    },
+    "1c14b58ab2a6e3f6": {
+      "originalText": "Built-in modes & custom modes (beta)",
+      "hash": "1c14b58ab2a6e3f6",
+      "translations": {
+        "ko": "내장 모드 및 사용자 정의 모드(베타)"
+      },
+      "createdAt": "2025-06-05T09:05:51.442Z",
+      "updatedAt": "2025-06-05T09:05:51.442Z"
+    },
+    "813128b36a022a2b": {
+      "originalText": "Early Preview: Hold-cmd-tap-shift to Trigger AI Rewrite",
+      "hash": "813128b36a022a2b",
+      "translations": {
+        "ko": "미리보기: AI 재작성 트리거를 위해 명령 키를 누른 채로 Shift를 탭하세요"
+      },
+      "createdAt": "2025-06-05T09:05:52.761Z",
+      "updatedAt": "2025-06-05T09:05:52.761Z"
+    },
+    "19e15beeb904d4ca": {
+      "originalText": "0.48.xMarch 23, 20250.48.xChat tabs, Custom modes & Faster indexingThis release introduces chat tabs for parallel conversations, a redesigned modes system with custom modes, and improvements to cost visibility, indexing performance, and MCP reliability. Additionally, a sound notification plays when a chat is finished Built-in modes & custom modes (beta) Agent and Ask modes are the built-in modes in Cursor, now with the option to add custom modes. We've also renamed \"Edit\" to \"Manual\" to better reflect its behavior. Ask mode now has access to all search tools by default, so the @Codebase tool has been removed. It will automatically search the codebase when needed. If you want to force a search, simply ask Cursor in natural language to \"search the codebase\". You can disable search from Ask in the mode menu, which will result in Ask only seeing the context you have provided. Read more about Agent and Ask. Custom modes (beta) allow you to compose new modes with tools and prompts that fit y...",
+      "hash": "19e15beeb904d4ca",
+      "translations": {
+        "ko": "0.48.xMarch 23, 20250.48.xChat tabs, Custom modes & Faster indexingThis release introduces chat tabs for parallel conversations, a redesigned modes system with custom modes, and improvements to cost visibility, indexing performance, and MCP reliability. Additionally, a sound notification plays when a chat is finished Built-in modes & custom modes (beta) Agent and Ask modes are the built-in modes in Cursor, now with the option to add custom modes. We've also renamed \"Edit\" to \"Manual\" to better reflect its behavior. Ask mode now has access to all search tools by default, so the @Codebase tool has been removed. It will automatically search the codebase when needed. If you want to force a search, simply ask Cursor in natural language to \"search the codebase\". You can disable search from Ask in the mode menu, which will result in Ask only seeing the context you have provided. Read more about Agent and Ask. Custom modes (beta) allow you to compose new modes with tools and prompts that fit y..."
+      },
+      "createdAt": "2025-06-05T09:06:08.381Z",
+      "updatedAt": "2025-06-05T09:06:08.381Z"
+    },
+    "3194a524e8171c36": {
+      "originalText": "0.47.xMarch 11, 20250.47.xReliability, Keyboard Shortcuts & Early access opt-inThis release focuses mainly on stability and performance improvements to make existing features work better. Memory Usage and Performance: The new release uses less memory and is more stable. Keyboard Shortcuts: All keyboard shortcuts are now available in the Keyboard Shortcuts menu. Go to Settings > Keyboard Shortcuts to modify or add new shortcuts. Early access opt-in: You can now opt in to early access from Settings > Beta > Update frequency. Auto select model: We choose the most appropriate premium model for the task at hand based on performance, speed, and availability so you get performance even during model degradation or outages. Themes: New and updated themes including Cursor Dark, Cursor Midnight, and Cursor Dark (High contrast). UI improvements: Improved tool calling UI, thinking UI and error messages in chat. We've also added a new update notification in the app to make it clearer when a new vers...",
+      "hash": "3194a524e8171c36",
+      "translations": {
+        "ko": "0.47.xMarch 11, 20250.47.xReliability, Keyboard Shortcuts & Early access opt-inThis release focuses mainly on stability and performance improvements to make existing features work better. Memory Usage and Performance: The new release uses less memory and is more stable. Keyboard Shortcuts: All keyboard shortcuts are now available in the Keyboard Shortcuts menu. Go to Settings > Keyboard Shortcuts to modify or add new shortcuts. Early access opt-in: You can now opt in to early access from Settings > Beta > Update frequency. Auto select model: We choose the most appropriate premium model for the task at hand based on performance, speed, and availability so you get performance even during model degradation or outages. Themes: New and updated themes including Cursor Dark, Cursor Midnight, and Cursor Dark (High contrast). UI improvements: Improved tool calling UI, thinking UI and error messages in chat. We've also added a new update notification in the app to make it clearer when a new vers..."
+      },
+      "createdAt": "2025-06-05T09:06:10.200Z",
+      "updatedAt": "2025-06-05T09:06:10.200Z"
+    },
+    "1b6fc602f4f91862": {
+      "originalText": "0.49April 15, 20250.49Rules generation, improved agent terminal and MCP imagesAutomated and improved rules You can now generate rules directly from a conversation using the /Generate Cursor Rules command. This is useful when you want to capture the existing context of a conversation to reuse later. For Auto Attached rules with path patterns defined, Agent will now automatically apply the right rules when reading or writing files We’ve also fixed a long-standing issue where Always attached rules now persist across longer conversations. Agent can now also edit rules reliably. Your browser does not support the video tag. More accessible history Chat history has moved into the command palette. You can access it from the \"Show history button\" in Chat as well as through the Show Chat History command Making reviews easier Reviewing agent generated code is now easier with a built-in diff view at the end of each conversation. You'll find the Review changes button at the bottom of chat after a m...",
+      "hash": "1b6fc602f4f91862",
+      "translations": {
+        "ko": "0.49April 15, 20250.49Rules generation, improved agent terminal and MCP imagesAutomated and improved rules You can now generate rules directly from a conversation using the /Generate Cursor Rules command. This is useful when you want to capture the existing context of a conversation to reuse later. For Auto Attached rules with path patterns defined, Agent will now automatically apply the right rules when reading or writing files We’ve also fixed a long-standing issue where Always attached rules now persist across longer conversations. Agent can now also edit rules reliably. Your browser does not support the video tag. More accessible history Chat history has moved into the command palette. You can access it from the \"Show history button\" in Chat as well as through the Show Chat History command Making reviews easier Reviewing agent generated code is now easier with a built-in diff view at the end of each conversation. You'll find the Review changes button at the bottom of chat after a m..."
+      },
+      "createdAt": "2025-06-05T09:06:11.679Z",
+      "updatedAt": "2025-06-05T09:06:11.679Z"
+    },
+    "cae9d4c1e4b368fc": {
+      "originalText": "0.44.xDecember 17, 20240.44.xAgent Improvements, Yolo Mode, Cursor Tab Update Agent sees terminal exit codes, can run commands in the background, and commands are now editable Agent reads linter errors to automatically fix issues With Yolo Mode, the agent can auto-run terminal commands @docs, @git, @web, and @folder are now available in the agent Agent auto-saves changes to disk Agent can decide to edit multiple locations in parallel Agent can reapply edits with a smarter apply model Composer changes and checkpoints are now persisted across reloads Cursor Tab can make larger edits at a time Better UX to review changes in Composer 4o Support for Agent Cheaper and faster Bug Finding Model Bug Fixes Fixed edge case where Cursor Tab crashed Fixed stuck on generating bug in chat/composer Composer no longer looks at files that were deleted Fixed code selection edge-case for chat/apply Cursor starts up faster UPDATE (0.44.1-0.44.11): Fixes and improvements to dev containers, chat codeblocks o...",
+      "hash": "cae9d4c1e4b368fc",
+      "translations": {
+        "ko": "0.44.xDecember 17, 20240.44.xAgent Improvements, Yolo Mode, Cursor Tab Update Agent sees terminal exit codes, can run commands in the background, and commands are now editable Agent reads linter errors to automatically fix issues With Yolo Mode, the agent can auto-run terminal commands @docs, @git, @web, and @folder are now available in the agent Agent auto-saves changes to disk Agent can decide to edit multiple locations in parallel Agent can reapply edits with a smarter apply model Composer changes and checkpoints are now persisted across reloads Cursor Tab can make larger edits at a time Better UX to review changes in Composer 4o Support for Agent Cheaper and faster Bug Finding Model Bug Fixes Fixed edge case where Cursor Tab crashed Fixed stuck on generating bug in chat/composer Composer no longer looks at files that were deleted Fixed code selection edge-case for chat/apply Cursor starts up faster UPDATE (0.44.1-0.44.11): Fixes and improvements to dev containers, chat codeblocks o..."
+      },
+      "createdAt": "2025-06-05T09:06:27.980Z",
+      "updatedAt": "2025-06-05T09:06:27.980Z"
+    },
+    "7629430a99eb0f19": {
+      "originalText": "0.46.xFebruary 19, 20250.46.xAgent is ready and UI refresh Agent is ready: Agent is now the default mode, bringing a more powerful and unified AI experience. No more confusion between Chat, Composer, and Agent - just one smart interface that adapts to your needs. UI refresh: Phase one of a fresh coat of paint with new default Cursor themes designed for focus. We've also simplified the @-context menu to make Agent more precise. Web search: Agent can now automatically search the web for up-to-date information without requiring explicit @Web commands. Ignore files: .cursorignore now blocks files from being added in chat or sent up for tab completions, in addition to ignoring them from indexing. We've introduced .cursorindexingignore for specifically controlling file indexing. Agent tool limit: Upon reaching the 25 tool call limit, you can press \"continue\" to proceed (counts as a new request). Project rules: - New capability to apply rules globally and a visual indicator for when rules wil...",
+      "hash": "7629430a99eb0f19",
+      "translations": {
+        "ko": "0.46.xFebruary 19, 20250.46.xAgent is ready and UI refresh Agent is ready: Agent is now the default mode, bringing a more powerful and unified AI experience. No more confusion between Chat, Composer, and Agent - just one smart interface that adapts to your needs. UI refresh: Phase one of a fresh coat of paint with new default Cursor themes designed for focus. We've also simplified the @-context menu to make Agent more precise. Web search: Agent can now automatically search the web for up-to-date information without requiring explicit @Web commands. Ignore files: .cursorignore now blocks files from being added in chat or sent up for tab completions, in addition to ignoring them from indexing. We've introduced .cursorindexingignore for specifically controlling file indexing. Agent tool limit: Upon reaching the 25 tool call limit, you can press \"continue\" to proceed (counts as a new request). Project rules: - New capability to apply rules globally and a visual indicator for when rules wil..."
+      },
+      "createdAt": "2025-06-05T09:06:28.617Z",
+      "updatedAt": "2025-06-05T09:06:28.617Z"
+    },
+    "8f09ec8fafb68af0": {
+      "originalText": "0.45.xJanuary 23, 20250.45.x.cursor/rules, Better Codebase Understanding, New Tab Model .cursor/rules: Users can write several repository-level rules to disk in the .cursor/rules directory. The Agent will automatically choose which rule to follow. Deepseek models: Deepseek R1 and Deepseek v3 are supported in 0.45 and 0.44. You can enable them in Settings > Models. We self-host these models in the US. Summarize Previous Composers: When conversations grow too long, you can start a new conversation while referencing the previous one. Agent sees recent changes: The agent can use a tool to see your recent changes. It also sees changes made between user messages. Better Codebase Understanding: We've trained a new model for Codebase Understanding. We'll be rolling it out to all users on 0.45 in the coming week. Fusion Model: We've trained a new Tab Model that is substantially better at jumps and long context. We'll also be rolling this out to users shortly. Optional Long Context: When tagging...",
+      "hash": "8f09ec8fafb68af0",
+      "translations": {
+        "ko": "0.45.xJanuary 23, 20250.45.x.cursor/rules, Better Codebase Understanding, New Tab Model .cursor/rules: Users can write several repository-level rules to disk in the .cursor/rules directory. The Agent will automatically choose which rule to follow. Deepseek models: Deepseek R1 and Deepseek v3 are supported in 0.45 and 0.44. You can enable them in Settings > Models. We self-host these models in the US. Summarize Previous Composers: When conversations grow too long, you can start a new conversation while referencing the previous one. Agent sees recent changes: The agent can use a tool to see your recent changes. It also sees changes made between user messages. Better Codebase Understanding: We've trained a new model for Codebase Understanding. We'll be rolling it out to all users on 0.45 in the coming week. Fusion Model: We've trained a new Tab Model that is substantially better at jumps and long context. We'll also be rolling this out to users shortly. Optional Long Context: When tagging..."
+      },
+      "createdAt": "2025-06-05T09:06:29.636Z",
+      "updatedAt": "2025-06-05T09:06:29.636Z"
+    },
+    "aac2b1f42bba9970": {
+      "originalText": "0.43.xNovember 24, 20240.43.xNew Composer UI, Agent, Commit Messages Composer UI in the sidebar with inline diffs Early version of an agent in composer that can pick its own context and use the terminal Generation of git commit messages File pill recommendations in chat/composer @Recommended in chat/composer to semantically search for context Nicer image-dropping experience Several performance improvements Beta: Sneak peek at an upcoming bug finder feature",
+      "hash": "aac2b1f42bba9970",
+      "translations": {
+        "ko": "0.43.x 2024년 11월 24일 0.43.x 새로운 작곡가 UI, 에이전트, 커밋 메시지 사이드바에 인라인 차이가 있는 커밋 메시지 작곡가 UI 에이전트의 초기 버전으로, 자신의 컨텍스트를 선택하고 터미널을 사용할 수 있습니다. git 커밋 메시지 생성 채팅/작곡가에서 파일 추천 @채팅/작곡가에서 추천하여 컨텍스트를 의미적으로 검색할 수 있습니다. 더 나은 이미지 드롭 경험 여러 성능 개선 베타: 곧 출시될 버그 찾기 기능 미리보기"
+      },
+      "createdAt": "2025-06-05T09:06:39.492Z",
+      "updatedAt": "2025-06-05T09:06:39.492Z"
+    },
+    "20aa1caa0b52b6fa": {
+      "originalText": "0.41.xSeptember 17, 20240.41.xCursor Tab Python Auto Import, Composer Improvements, Remote SSH to Mac SupportThis update fixes the following security issue: CVE-2024-45599. Cursor Tab now auto-imports symbols in Python files! We've also significantly improved the Cursor Tab stability. Composer Notepads (previously called Projects) can now include tagged files and be referenced in chat, as well as composer. Composer can now be added to the AI pane. This release also includes many stability fixes and image support! Apply and Composer are slightly faster in this release. We've added support for using Cursor on Macs over Remote SSH. UPDATE (0.41.1 - 0.41.3): Improves onboarding UX, fixes a bug with composer cancellation, fixes the Apply button not working on some codeblocks, and fixes a bug where Cursor Tab sees malformed edits.",
+      "hash": "20aa1caa0b52b6fa",
+      "translations": {
+        "ko": "0.41.xSeptember 17, 20240.41.xCursor Tab Python Auto Import, Composer Improvements, Remote SSH to Mac SupportThis update fixes the following security issue: CVE-2024-45599. Cursor Tab now auto-imports symbols in Python files! We've also significantly improved the Cursor Tab stability. Composer Notepads (previously called Projects) can now include tagged files and be referenced in chat, as well as composer. Composer can now be added to the AI pane. This release also includes many stability fixes and image support! Apply and Composer are slightly faster in this release. We've added support for using Cursor on Macs over Remote SSH. UPDATE (0.41.1 - 0.41.3): Improves onboarding UX, fixes a bug with composer cancellation, fixes the Apply button not working on some codeblocks, and fixes a bug where Cursor Tab sees malformed edits."
+      },
+      "createdAt": "2025-06-05T09:06:44.633Z",
+      "updatedAt": "2025-06-05T09:06:44.633Z"
+    },
+    "b10e93b74eb5aa7e": {
+      "originalText": "0.42.xOctober 9, 20240.42.xComposer History, @Lint Errors, VS Code 1.93.1 Composer history lets you access previous composer sessions after restart. You can also edit and resubmit from previous messages within a session. We have made slight improvements to Debug with AI and added back @Lint Errors in Chat. VS Code 1.93.1: Cursor is now based on VS Code 1.93.1. Python auto import for Cursor Tab is much more stable in this release. Switching models is a lot easier with model search (Cmd-option-/) in the chat, composer, and cmd-k input boxes. Composer now only applies files that are in context to prevent hallucinations. Using cursor . with WSL should now be more stable. UPDATE (0.42.1 - 0.42.5): Fixes the following upstream security issue: CVE-2024-43601. Also fixes a few composer bugs and a bug with Cursor Tab. Allows composer to auto apply to files not in its context. Also includes additional mitigations to CVE-2024-48919. Reduces a few long-tail connection errors. Adds escape hatch whe...",
+      "hash": "b10e93b74eb5aa7e",
+      "translations": {
+        "ko": "0.42.xOctober 9, 20240.42.xComposer History, @Lint Errors, VS Code 1.93.1 Composer history lets you access previous composer sessions after restart. You can also edit and resubmit from previous messages within a session. We have made slight improvements to Debug with AI and added back @Lint Errors in Chat. VS Code 1.93.1: Cursor is now based on VS Code 1.93.1. Python auto import for Cursor Tab is much more stable in this release. Switching models is a lot easier with model search (Cmd-option-/) in the chat, composer, and cmd-k input boxes. Composer now only applies files that are in context to prevent hallucinations. Using cursor . with WSL should now be more stable. UPDATE (0.42.1 - 0.42.5): Fixes the following upstream security issue: CVE-2024-43601. Also fixes a few composer bugs and a bug with Cursor Tab. Allows composer to auto apply to files not in its context. Also includes additional mitigations to CVE-2024-48919. Reduces a few long-tail connection errors. Adds escape hatch whe..."
+      },
+      "createdAt": "2025-06-05T09:06:48.445Z",
+      "updatedAt": "2025-06-05T09:06:48.445Z"
+    },
+    "1d04cb55f2e7ab40": {
+      "originalText": "0.39.xAugust 2, 20240.39.xFaster Cursor Tab, More Composer improvements Cursor Tab (previously called Copilot++) defaults to chunked streaming. This build also includes several Cursor Tab speedups. More to come in future builds! Concurrent composers support, composer control panel, and various bug fixes such as accepted files being deleted. Faster Cursor Tab Suggestions! UPDATE (0.39.1 - 0.39.6): Fixes several Cursor Tab rendering bugs, a bug where the file explorer was not responsive, and a bug where Cursor Tab would hang.",
+      "hash": "1d04cb55f2e7ab40",
+      "translations": {
+        "ko": "0.39.x 2024년 8월 2일 0.39.x 더 빠른 커서 탭, 더 많은 작곡가 개선 사항 커서 탭(이전에는 Copilot++라고 불림)은 청크 스트리밍으로 기본 설정됩니다. 이 빌드에는 여러 커서 탭 속도 향상이 포함되어 있습니다. 향후 빌드에서 더 많은 기능이 추가될 예정입니다! 동시 작곡가 지원, 작곡가 제어판, 수락된 파일이 삭제되는 등의 다양한 버그 수정이 포함되어 있습니다. 더 빠른 커서 탭 제안! 업데이트 (0.39.1 - 0.39.6): 여러 커서 탭 렌더링 버그, 파일 탐색기가 반응하지 않는 버그, 커서 탭이 멈추는 버그를 수정했습니다."
+      },
+      "createdAt": "2025-06-05T09:06:59.542Z",
+      "updatedAt": "2025-06-05T09:06:59.542Z"
+    },
+    "29ad11ea9de19b04": {
+      "originalText": "0.40.xAugust 22, 20240.40.xNew Chat UX, Default-On Composer, New Cursor Tab Model We have a new chat UX! Excited for you to try it out and share your thoughts. Composer is now default-on and available to all Pro/Business users by hitting cmd+I. We've added Composer Projects (beta), which allows you to share instructions among several composers. We've also trained a new Cursor Tab model that's smarter and more context-aware. Auto imports (beta) for Cursor Tab for TypeScript files - when Tab suggests an unimported symbol, we'll now auto-import it to your current file. You can enable it in Settings > Features > Cursor Tab! UPDATE (0.40.1 - 0.40.4): Fixes a bug with apply on remote ssh, a few chat bugs, speeds up Cursor Tab for Europe/Asia users, fixes some outstanding Cursor Tab bugs and notifications hiding the chat input, and includes a fix for Cursor asking for permissions for files in your ~/Library folder on MacOS (upstream issue: microsoft/vscode#208105)",
+      "hash": "29ad11ea9de19b04",
+      "translations": {
+        "ko": "0.40.xAugust 22, 20240.40.xNew Chat UX, Default-On Composer, New Cursor Tab Model We have a new chat UX! Excited for you to try it out and share your thoughts. Composer is now default-on and available to all Pro/Business users by hitting cmd+I. We've added Composer Projects (beta), which allows you to share instructions among several composers. We've also trained a new Cursor Tab model that's smarter and more context-aware. Auto imports (beta) for Cursor Tab for TypeScript files - when Tab suggests an unimported symbol, we'll now auto-import it to your current file. You can enable it in Settings > Features > Cursor Tab! UPDATE (0.40.1 - 0.40.4): Fixes a bug with apply on remote ssh, a few chat bugs, speeds up Cursor Tab for Europe/Asia users, fixes some outstanding Cursor Tab bugs and notifications hiding the chat input, and includes a fix for Cursor asking for permissions for files in your ~/Library folder on MacOS (upstream issue: microsoft/vscode#208105)"
+      },
+      "createdAt": "2025-06-05T09:07:03.998Z",
+      "updatedAt": "2025-06-05T09:07:03.998Z"
+    },
+    "9102d700c3cc60b0": {
+      "originalText": "0.38.xJuly 23, 20240.38.xCopilot++ Chunked Streaming (beta), Composer improvements Copilot++ now has chunked streaming (currently in Beta)! It will surface edits faster in smaller chunks. To enable it, click the settings gear and enable \"Chunked Streaming\" under Features > Copilot++. We've also added a file picker, arrow key navigation, and a model toggle to Composer. This release also patches a few outstanding Composer bugs. VS Code 1.91.1: Cursor is now based on VS Code 1.91.1. New Default Model: We've made Claude 3.5 Sonnet the default model for users. UPDATE (0.38.1): Fixes a bug where OpenAI API Key users would be migrated to Claude 3.5 Sonnet",
+      "hash": "9102d700c3cc60b0",
+      "translations": {
+        "ko": "0.38.x 2024년 7월 23일 0.38.x Copilot++ 청크 스트리밍(베타), Composer 개선 사항 Copilot++는 이제 청크 스트리밍(현재 베타 버전)을 지원합니다! 더 작은 청크로 더 빠르게 편집 내용을 표시합니다. 이를 활성화하려면 설정 아이콘을 클릭하고 기능 > Copilot++ 아래의 \"청크 스트리밍\"을 활성화하세요. 또한 Composer에 파일 선택기, 화살표 키 탐색 및 모델 전환 기능을 추가했습니다. 이번 릴리스는 몇 가지 남아 있는 Composer 버그도 수정했습니다. VS Code 1.91.1: 커서는 이제 VS Code 1.91.1을 기반으로 합니다. 새로운 기본 모델: 사용자에게 Claude 3.5 Sonnet을 기본 모델로 설정했습니다. 업데이트(0.38.1): OpenAI API 키 사용자가 Claude 3.5 Sonnet으로 마이그레이션되는 버그를 수정했습니다."
+      },
+      "createdAt": "2025-06-05T09:07:04.079Z",
+      "updatedAt": "2025-06-05T09:07:04.079Z"
+    },
+    "23a6605aea4a2e3e": {
+      "originalText": "0.37.xJuly 13, 20240.37.xComposer (beta)This build comes with a new experimental multi-file editing feature. To enable it, click the settings gear, head to Beta, and activate \"Composer.\" To use it, hit Cmd+I. We'd love to hear your thoughts.",
+      "hash": "23a6605aea4a2e3e",
+      "translations": {
+        "ko": "0.37.x 2024년 7월 13일 0.37.x Composer (베타) 이 빌드는 새로운 실험적인 다중 파일 편집 기능을 포함하고 있습니다. 이를 활성화하려면 설정 기어를 클릭하고 베타로 이동하여 'Composer'를 활성화하세요. 사용하려면 Cmd+I를 누르세요. 여러분의 의견을 듣고 싶습니다."
+      },
+      "createdAt": "2025-06-05T09:07:12.531Z",
+      "updatedAt": "2025-06-05T09:07:12.531Z"
+    },
+    "f4bfec09ea086c05": {
+      "originalText": "0.36.xJuly 3, 20240.36.xInstant Applies, Docs Management When the chat suggests a code block, click \"Apply\" to instantly see the change to the file (small enough files only). Docs management! Go to Cursor Settings > Features > Docs to re-index your docs. Bug fixes when using your own API key for Claude. UPDATE (0.36.1-0.36.2): Fixes #1526, cmd-shift-F on macOS x64 devices. Also fixes official docs taking a long time to show up, and cmd-K stickiness being buggy.",
+      "hash": "f4bfec09ea086c05",
+      "translations": {
+        "ko": "0.36.x 2024년 7월 3일 0.36.x 즉시 적용, 문서 관리 채팅에서 코드 블록을 제안할 때 '적용'을 클릭하면 파일에 즉시 변경 사항이 반영됩니다(작은 파일만 해당). 문서 관리! 커서 설정 > 기능 > 문서로 가서 문서를 재색인하세요. Claude의 API 키를 사용할 때 발생하는 버그 수정. 업데이트 (0.36.1-0.36.2): #1526 수정, macOS x64 장치에서 cmd-shift-F. 공식 문서가 나타나는 데 오랜 시간이 걸리는 문제와 cmd-K의 끈적임이 버그가 있는 문제도 수정되었습니다."
+      },
+      "createdAt": "2025-06-05T09:07:18.733Z",
+      "updatedAt": "2025-06-05T09:07:18.733Z"
+    },
+    "b1f4b6e337cafd70": {
+      "originalText": "0.35.xJune 8, 20240.35.xDefault-on Cursor Prediction, Remote Tunnels & More Robust SSH Default-on Cursor Prediction with a new UI Remote tunnels are now supported! Remote SSH support is also more robust (now supports multiple proxy jumps, among other things). Adds context pills to chat messages, so you can see what will be/was used Cmd K context-building improvements Fixes partial completions with Copilot++ on Windows/Linux UPDATE (0.35.1): Disables Copilot++ partial accepts by default and makes the keybinding configurable (go to Cursor Settings > Features > Cpp to re-enable). Makes gpt-4o the default model.",
+      "hash": "b1f4b6e337cafd70",
+      "translations": {
+        "ko": "0.35.x 2024년 6월 8일 0.35.x 기본 활성화된 커서 예측, 원격 터널 및 더 강력한 SSH 기본 활성화된 커서 예측과 새로운 UI 원격 터널이 이제 지원됩니다! 원격 SSH 지원도 더 강력해졌습니다(이제 여러 프록시 점프를 지원합니다, 그 외에도 여러 가지가 있습니다). 채팅 메시지에 컨텍스트 필을 추가하여 어떤 것이 사용될 것인지/사용되었는지를 볼 수 있습니다. Cmd K 컨텍스트 구축 개선 사항 Copilot++의 부분 완성을 Windows/Linux에서 수정합니다. 업데이트 (0.35.1): 기본적으로 Copilot++ 부분 수락을 비활성화하고 키 바인딩을 구성 가능하게 만듭니다(재활성화하려면 커서 설정 > 기능 > Cpp로 이동). gpt-4o를 기본 모델로 설정합니다."
+      },
+      "createdAt": "2025-06-05T09:07:19.318Z",
+      "updatedAt": "2025-06-05T09:07:19.318Z"
+    },
+    "6dd03255f779ffb1": {
+      "originalText": "0.33.xMay 3, 20240.33.xNetworking Stability, Command-K Autoselect Stability: This build fixes a connection error problem that was consistently affecting some users. It should also improve the performance of Cursor on spotty internet. Command-K Autoselect: We've also added automatic selection for Command-K! This means you can now press Command-K, and it will automatically select the region you're working on, though you can still select manually if you prefer. UPDATE (0.33.1-0.33.3): Fix to settings toggles, fix to Copilot++ diffbox performance, onboarding tweaks.",
+      "hash": "6dd03255f779ffb1",
+      "translations": {
+        "ko": "0.33.x 2024년 5월 3일 0.33.x 네트워킹 안정성, Command-K 자동 선택 안정성: 이 빌드는 일부 사용자에게 지속적으로 영향을 미치던 연결 오류 문제를 수정합니다. 또한 불안정한 인터넷에서 커서의 성능을 개선할 것입니다. Command-K 자동 선택: 이제 Command-K를 누르면 작업 중인 영역이 자동으로 선택됩니다. 원하시면 수동으로 선택할 수도 있습니다. 업데이트 (0.33.1-0.33.3): 설정 토글 수정, Copilot++ diffbox 성능 수정, 온보딩 조정."
+      },
+      "createdAt": "2025-06-05T09:07:30.028Z",
+      "updatedAt": "2025-06-05T09:07:30.028Z"
+    },
+    "aa346244f283303d": {
+      "originalText": "0.34.xMay 26, 20240.34.xVS Code 1.89, New Cursor Prediction UI, Gemini 1.5 Flash, Copilot++ partial completion Merges VS Code 1.89 into Cursor New Cursor Prediction UI Gemini 1.5 Flash is available in long-context mode Accept partial completions with Copilot++ Better performance of Copilot++ on linter errors Toggleable rerankers on codebase search GPT-4o in Interpreter Mode UPDATE (0.34.1-0.34.6): Fixes long context models in the model toggle, an empty AI Review tab, Copilot++ preview bugs, the Mac icon size, and remote ssh fixes.",
+      "hash": "aa346244f283303d",
+      "translations": {
+        "ko": "0.34.x 2024년 5월 26일 0.34.x VS Code 1.89, 새로운 커서 예측 UI, Gemini 1.5 플래시, Copilot++ 부분 완성 통합 VS Code 1.89를 커서 새로운 커서 예측 UI에 통합 Gemini 1.5 플래시는 긴 컨텍스트 모드에서 사용 가능 Copilot++로 부분 완성을 수락 Copilot++의 린터 오류에 대한 성능 향상 코드베이스 검색에서 전환 가능한 재순위 지정기 인터프리터 모드의 GPT-4o 업데이트 (0.34.1-0.34.6): 모델 전환에서 긴 컨텍스트 모델 수정, 빈 AI 리뷰 탭, Copilot++ 미리보기 버그, Mac 아이콘 크기, 원격 SSH 수정."
+      },
+      "createdAt": "2025-06-05T09:07:32.914Z",
+      "updatedAt": "2025-06-05T09:07:32.914Z"
+    },
+    "38f1182635edfce9": {
+      "originalText": "0.32.xApril 12, 20240.32.xImproved Copilot++ UX, New GPT-4 Model Copilot++ UX: Suggestion previews now have syntax highlighting, which we find makes it much easier to quickly understand the changes. Cursor Help Pane (Beta): You can also ask Cursor about Cursor! The Cursor Help Pane has information about features, keyboard shortcuts, and much more. You can enable it in Settings > Beta. New GPT-4 model: As of a couple of days ago, you can try out gpt-4-turbo-2024-04-09 in Cursor by toggling it on in Settings > Models. .cursorrules: You can write down repo-level rules for the AI by creating a .cursorrules file in the root of your repository. You might use this to give for context on what you're building, style guidelines, or info on commonly-used methods. UPDATE (0.32.1-0.32.7): Fixes a performance issue with the new Copilot++ syntax highlighting, changes AI Notes to be default disabled, changes the naming of the main Copilot++ model to legacy, fixes Copilot++ being slower over SSH, fixes...",
+      "hash": "38f1182635edfce9",
+      "translations": {
+        "ko": "0.32.xApril 12, 20240.32.xImproved Copilot++ UX, New GPT-4 Model Copilot++ UX: Suggestion previews now have syntax highlighting, which we find makes it much easier to quickly understand the changes. Cursor Help Pane (Beta): You can also ask Cursor about Cursor! The Cursor Help Pane has information about features, keyboard shortcuts, and much more. You can enable it in Settings > Beta. New GPT-4 model: As of a couple of days ago, you can try out gpt-4-turbo-2024-04-09 in Cursor by toggling it on in Settings > Models. .cursorrules: You can write down repo-level rules for the AI by creating a .cursorrules file in the root of your repository. You might use this to give for context on what you're building, style guidelines, or info on commonly-used methods. UPDATE (0.32.1-0.32.7): Fixes a performance issue with the new Copilot++ syntax highlighting, changes AI Notes to be default disabled, changes the naming of the main Copilot++ model to legacy, fixes Copilot++ being slower over SSH, fixes..."
+      },
+      "createdAt": "2025-06-05T09:07:34.920Z",
+      "updatedAt": "2025-06-05T09:07:34.920Z"
+    },
+    "f4f23266178366f6": {
+      "originalText": "March 12, 2024Claude SupportIf you're a Pro or Business user, you can add \"claude-3-opus\" as a custom model in the Settings page and use 10 fast requests per day for free (unlimited slow, but the delay increases exponentially). We expect to roll out a more permanent solution (including API key users) very soon.",
+      "hash": "f4f23266178366f6",
+      "translations": {
+        "ko": "2024년 3월 12일 Claude 지원 프로 또는 비즈니스 사용자라면 설정 페이지에서 'claude-3-opus'를 사용자 지정 모델로 추가하고 하루에 10개의 빠른 요청을 무료로 사용할 수 있습니다(느린 요청은 무제한이지만 지연 시간이 기하급수적으로 증가합니다). 우리는 곧 더 영구적인 솔루션(API 키 사용자 포함)을 출시할 예정입니다."
+      },
+      "createdAt": "2025-06-05T09:07:41.906Z",
+      "updatedAt": "2025-06-05T09:07:41.906Z"
+    },
+    "1cdd1eb128cd9f2c": {
+      "originalText": "0.31.xApril 1, 20240.31.xLong Context Chat Beta Long Context Chat (Beta): This is a new experimental feature that lets you talk with lots of files! To enable it, head to Settings > Beta. Then, select \"Long Context Chat\" in the top right of a new chat and try @'ing a folder or the entire codebase. Fixes: This release patches a bug where empty / partial responses are shown in chat. UPDATE (0.31.1 - 0.31.3): Adds back in AI Review (alpha), fixes the \"Cursor Settings\" menu item, and fixes a bug where @web doesn't return a response.",
+      "hash": "1cdd1eb128cd9f2c",
+      "translations": {
+        "ko": "0.31.x 2024년 4월 1일 0.31.x 긴 컨텍스트 채팅 베타 긴 컨텍스트 채팅(베타): 이것은 많은 파일과 대화할 수 있는 새로운 실험적 기능입니다! 이를 활성화하려면 설정 > 베타로 이동하세요. 그런 다음 새 채팅의 오른쪽 상단에서 '긴 컨텍스트 채팅'을 선택하고 폴더나 전체 코드베이스에 @를 붙여 시도해 보세요. 수정 사항: 이번 릴리스는 빈/부분 응답이 채팅에 표시되는 버그를 수정합니다. 업데이트(0.31.1 - 0.31.3): AI 리뷰(알파)를 다시 추가하고 '커서 설정' 메뉴 항목을 수정하며 @web이 응답을 반환하지 않는 버그를 수정합니다."
+      },
+      "createdAt": "2025-06-05T09:07:49.042Z",
+      "updatedAt": "2025-06-05T09:07:49.042Z"
+    },
+    "da1ef0c7182cc9b5": {
+      "originalText": "0.30.xMarch 20, 20240.30.xFaster Copilot++, Claude Faster Copilot++: We've made Copilot++ ~2x faster! This speed bump comes from a new model / faster inference. ~50% of users are already on this model, and it will roll out to everyone over a few days. If you'd like to enable the model immediately, you can control your model in the bottom bar of the editor. Stable Claude Support: All the newest Claude models are available for Pro and API key users. Head to Settings > Models to toggle them on. Pro users get 10 requests / day for free and can keep using Claude at API-key prices for subsequent requests. Team invites: We made it a bit easier for you to invite your colleagues to your Cursor team. You can send these from the editor's settings or at cursor.com/settings. Admin improvements: Team admins can now mark themselves as unpaid users and can see the last time team members used the product. New Settings: We moved all our settings to be accessible by the gear in the top right. No more \"Mo...",
+      "hash": "da1ef0c7182cc9b5",
+      "translations": {
+        "ko": "0.30.xMarch 20, 20240.30.xFaster Copilot++, Claude Faster Copilot++: We've made Copilot++ ~2x faster! This speed bump comes from a new model / faster inference. ~50% of users are already on this model, and it will roll out to everyone over a few days. If you'd like to enable the model immediately, you can control your model in the bottom bar of the editor. Stable Claude Support: All the newest Claude models are available for Pro and API key users. Head to Settings > Models to toggle them on. Pro users get 10 requests / day for free and can keep using Claude at API-key prices for subsequent requests. Team invites: We made it a bit easier for you to invite your colleagues to your Cursor team. You can send these from the editor's settings or at cursor.com/settings. Admin improvements: Team admins can now mark themselves as unpaid users and can see the last time team members used the product. New Settings: We moved all our settings to be accessible by the gear in the top right. No more \"Mo..."
+      },
+      "createdAt": "2025-06-05T09:09:35.304Z",
+      "updatedAt": "2025-06-05T09:09:35.304Z"
+    },
+    "27af5bdd90d7f004": {
+      "originalText": "0.27.xFebruary 15, 20240.27.xLinter, Interpreter Mode UpdatesTwo new updates to experimental features: Linter: You can now turn on an AI linter in the \"More\" tab beside Chat. It'll scan your file for small bugs every time you save. Interpreter Mode: We've made some big improvements to the backend powering interpreter mode! It should now be much better at using tools and understanding your project. UPDATE (0.27.1-0.27.4): Fixes to Windows build, chat context UI, onboarding.",
+      "hash": "27af5bdd90d7f004",
+      "translations": {
+        "ko": "0.27.x 2024년 2월 15일 0.27.x Linter, 인터프리터 모드 업데이트 실험적 기능에 대한 두 가지 새로운 업데이트: Linter: 이제 채팅 옆의 '더보기' 탭에서 AI Linter를 켤 수 있습니다. 파일을 저장할 때마다 작은 버그를 스캔합니다. 인터프리터 모드: 인터프리터 모드를 지원하는 백엔드에 큰 개선을 했습니다! 이제 도구를 사용하고 프로젝트를 이해하는 데 훨씬 더 나아졌습니다. 업데이트 (0.27.1-0.27.4): Windows 빌드, 채팅 컨텍스트 UI, 온보딩 수정."
+      },
+      "createdAt": "2025-06-05T09:09:42.852Z",
+      "updatedAt": "2025-06-05T09:09:42.852Z"
+    },
+    "74ec3a104a5ed7d9": {
+      "originalText": "0.28.xFebruary 23, 20240.28.xVS Code 1.86.2Cursor is now based on VS Code 1.86.2! Among other things, this adds sticky scroll support to tree views. Also, cmdk prompt bars are now sticky. UPDATE (0.28.1): Fixes spacing issue with codebase chat, fixes getcursor/cursor#1236.",
+      "hash": "74ec3a104a5ed7d9",
+      "translations": {
+        "ko": "0.28.x 2024년 2월 23일 0.28.x VS Code 1.86.2 커서는 이제 VS Code 1.86.2를 기반으로 합니다! 그 외에도, 이 업데이트는 트리 뷰에 스티키 스크롤 지원을 추가합니다. 또한, cmdk 프롬프트 바도 이제 스티키입니다. 업데이트 (0.28.1): 코드베이스 채팅의 간격 문제를 수정하고, getcursor/cursor#1236을 수정했습니다."
+      },
+      "createdAt": "2025-06-05T09:09:43.959Z",
+      "updatedAt": "2025-06-05T09:09:43.959Z"
+    },
+    "b713f17da89702f2": {
+      "originalText": "0.29.xMarch 1, 20240.29.xPolishAI Notes enabled by default (hold shift on any symbol), better in-editor chat, auto-execute interpreter mode, better onboarding styling, nicer feedback modal, and a few stability fixes. UPDATE (0.29.1): Fixes a bug where the Copilot++ sometimes would not show a suggestion even if one existed, a bug where the hint line would sometimes cover the ghost text, and a bug where AI Notes would not work on Windows.",
+      "hash": "b713f17da89702f2",
+      "translations": {
+        "ko": "0.29.x 2024년 3월 1일 0.29.x 기본적으로 활성화된 AI 노트(모든 기호에서 Shift 키를 누르고 있음), 개선된 편집기 내 채팅, 자동 실행 인터프리터 모드, 더 나은 온보딩 스타일, 더 나은 피드백 모달 및 몇 가지 안정성 수정. 업데이트 (0.29.1): Copilot++가 제안이 존재함에도 불구하고 가끔 제안을 표시하지 않는 버그, 힌트 라인이 가끔 유령 텍스트를 가리는 버그, AI 노트가 Windows에서 작동하지 않는 버그를 수정했습니다."
+      },
+      "createdAt": "2025-06-05T09:09:44.464Z",
+      "updatedAt": "2025-06-05T09:09:44.464Z"
+    },
+    "ea85c01a72d8eca9": {
+      "originalText": "0.25.0-nightlyFebruary 2, 20240.25.0-nightlyCmd-I to HealHold down cmd-I over a selection to heal the code with GPT-4. Useful for writing pseudocode and having the AI convert it into correct code. Please let us know if you find it useful!",
+      "hash": "ea85c01a72d8eca9",
+      "translations": {
+        "ko": "0.25.0-야간 2024년 2월 2일 0.25.0-야간 Cmd-I로 치유하기 선택한 부분 위에 cmd-I를 누르고 있으면 GPT-4로 코드를 치유할 수 있습니다. 의사 코드를 작성하고 AI가 이를 올바른 코드로 변환하는 데 유용합니다. 유용하다고 생각되면 알려주세요!"
+      },
+      "createdAt": "2025-06-05T09:09:49.299Z",
+      "updatedAt": "2025-06-05T09:09:49.299Z"
+    },
+    "32a0da6004a856a7": {
+      "originalText": "0.25.xFebruary 2, 20240.25.xCommand-K Vision SupportYou can now drag images into the Command-K prompt bar! Other changes: You can now search through past chats. \"Apply Diffs\" from chat should be a bit faster. UPDATES: 0.25.2: Copilot++ performance improvements 0.25.3: Fix for a cmd-K bug: getcursor/cursor#1226.",
+      "hash": "32a0da6004a856a7",
+      "translations": {
+        "ko": "0.25.x 2024년 2월 2일 0.25.x Command-K 비전 지원 이제 Command-K 프롬프트 바에 이미지를 드래그할 수 있습니다! 기타 변경 사항: 이제 과거 채팅을 검색할 수 있습니다. 채팅에서 '차이 적용'이 조금 더 빨라져야 합니다. 업데이트: 0.25.2: Copilot++ 성능 개선 0.25.3: cmd-K 버그 수정: getcursor/cursor#1226."
+      },
+      "createdAt": "2025-06-05T09:09:50.481Z",
+      "updatedAt": "2025-06-05T09:09:50.481Z"
+    },
+    "0b5c34d35fa7fcd2": {
+      "originalText": "0.26February 9, 20240.26AI Previews BetaAI Previews: this is an experimental new code reading feature. After enabling in the \"More\" tab beside Chat, just hold shift to see a generate some quick notes about the symbol you're on. If you'd like us to dedicate more time to this direction, please let us know. Other changes: Fine-grained chat replies (start by hovering over the area of the response you want to reply to) Copilot++ quality of life improvements (show ghost text more often, toggle on/off on the status bar, make it easier to see the suggestion box) Smoother onboarding (fix Windows settings import, option to import folder/window state)",
+      "hash": "0b5c34d35fa7fcd2",
+      "translations": {
+        "ko": "0.26 2024년 2월 9일 0.26 AI 미리보기 베타 AI 미리보기: 이것은 실험적인 새로운 코드 읽기 기능입니다. 채팅 옆의 '더보기' 탭에서 활성화한 후, Shift 키를 누르고 있으면 현재 위치한 기호에 대한 간단한 메모를 생성할 수 있습니다. 이 방향에 더 많은 시간을 할애하길 원하시면 알려주세요. 기타 변경 사항: 세밀한 채팅 응답(응답하고 싶은 영역 위에 마우스를 올려 시작) Copilot++ 생활 개선(유령 텍스트를 더 자주 표시, 상태 표시줄에서 켜고 끌 수 있는 옵션, 제안 상자를 더 쉽게 볼 수 있도록 개선) 원활한 온보딩(Windows 설정 가져오기 수정, 폴더/창 상태 가져오기 옵션)"
+      },
+      "createdAt": "2025-06-05T09:09:55.675Z",
+      "updatedAt": "2025-06-05T09:09:55.675Z"
+    },
+    "3d568e003ac349f8": {
+      "originalText": "0.22.1-nightlyJanuary 15, 20240.22.1-nightlyCursor-Fast ModelCursor-Fast is a newly trained model between gpt-3.5 and gpt-4 coding capabilities, with very fast response times (~3.5 speed). We'll be working to improve its performance over the coming weeks. Counts the same as 3.5 usage. Try using it for Cmd+k! Bug fixes: Working WSL codebase search Supports newer version of python extension",
+      "hash": "3d568e003ac349f8",
+      "translations": {
+        "ko": "0.22.1-야간버전 2024년 1월 15일 0.22.1-야간버전 Cursor-Fast 모델 Cursor-Fast는 gpt-3.5와 gpt-4의 코딩 능력 사이에서 새롭게 훈련된 모델로, 매우 빠른 응답 시간(~3.5배 속도)을 자랑합니다. 앞으로 몇 주 동안 성능을 개선하기 위해 노력할 것입니다. 3.5 사용량과 동일하게 계산됩니다. Cmd+k를 사용해 보세요! 버그 수정: 작동하는 WSL 코드베이스 검색, 최신 버전의 파이썬 확장 지원"
+      },
+      "createdAt": "2025-06-05T09:10:03.164Z",
+      "updatedAt": "2025-06-05T09:10:03.164Z"
+    },
+    "0a03eb729c670544": {
+      "originalText": "0.24.xJanuary 25, 20240.24.x@Web, gpt-4-0125-previewUsing @Web in chat will give the AI the ability to crawl the web! The tools it can use include a search engine and a documentation site crawler. This feature is still experimental. We're very interested in improving the ability of the AI to understand external libraries, and your thoughts will help us improve :). Both pro and API key users can also try out gpt-4-0125-preview by configuring the model under Settings > OpenAI API > Configure Models. We're testing the new model right now for pro users to see if it performs better than all older versions of gpt-4. If so, will roll out as the default experience. UPDATE (0.24.3-0.24.4): Adds ability to configure OpenAI base URL, fixes getcursor/cursor#1202.",
+      "hash": "0a03eb729c670544",
+      "translations": {
+        "ko": "0.24.x 2024년 1월 25일 0.24.x@Web, gpt-4-0125-preview 채팅에서 @Web을 사용하면 AI가 웹을 크롤링할 수 있는 능력을 갖게 됩니다! 사용할 수 있는 도구에는 검색 엔진과 문서 사이트 크롤러가 포함됩니다. 이 기능은 아직 실험적입니다. 우리는 AI가 외부 라이브러리를 이해하는 능력을 향상시키는 데 매우 관심이 있으며, 여러분의 의견이 개선에 도움이 될 것입니다 :). 프로 사용자와 API 키 사용자 모두는 설정 > OpenAI API > 모델 구성에서 모델을 설정하여 gpt-4-0125-preview를 시도할 수 있습니다. 우리는 현재 프로 사용자를 위해 새로운 모델을 테스트하고 있으며, 이 모델이 모든 이전 버전의 gpt-4보다 성능이 더 좋은지 확인하고 있습니다. 만약 그렇다면 기본 경험으로 배포될 것입니다. 업데이트 (0.24.3-0.24.4): OpenAI 기본 URL 구성 기능 추가, getcursor/cursor#1202 수정."
+      },
+      "createdAt": "2025-06-05T09:10:07.964Z",
+      "updatedAt": "2025-06-05T09:10:07.964Z"
+    },
+    "31807c6349f2f6aa": {
+      "originalText": "0.23.xJanuary 18, 20240.23.xNew Model, Apply Button v2 \"cursor-fast\": This is a new model available in command-k and chat. Expect it to be a bit smarter than gpt-3.5, and with many fewer formatting errors. Apply button: We've added some polish to the \"apply codeblock\" experience in chat. Chat lints: If the AI suggests a code change in chat that involves a made up code symbol, we'll underline it. Availble for Python, Typescript, Rust. More chat symbol links: When the chat references a code symbol, you'll often be able to click directly to it. UPDATE (0.23.3-0.23.9): Fixes to Command-K, changelog auto-opening, editing very long lines with Copilot++, the \"delete index\" button, connection errors being silenced, and proxied authentication.",
+      "hash": "31807c6349f2f6aa",
+      "translations": {
+        "ko": "0.23.x 2024년 1월 18일 0.23.x 새로운 모델, 적용 버튼 v2 \"cursor-fast\": 이는 command-k와 채팅에서 사용할 수 있는 새로운 모델입니다. gpt-3.5보다 약간 더 똑똑하고 포맷 오류가 훨씬 적을 것으로 기대됩니다. 적용 버튼: 채팅에서 \"코드 블록 적용\" 경험을 다듬었습니다. 채팅 린트: AI가 채팅에서 만들어진 코드 기호를 포함한 코드 변경을 제안하면, 해당 기호를 밑줄로 표시합니다. Python, Typescript, Rust에서 사용 가능합니다. 더 많은 채팅 기호 링크: 채팅에서 코드 기호를 참조할 때, 종종 직접 클릭하여 이동할 수 있습니다. 업데이트 (0.23.3-0.23.9): Command-K 수정, 변경 로그 자동 열기, Copilot++로 매우 긴 줄 편집, \"인덱스 삭제\" 버튼, 연결 오류가 침묵 처리되는 문제 수정, 프록시 인증 문제 수정."
+      },
+      "createdAt": "2025-06-05T09:10:09.034Z",
+      "updatedAt": "2025-06-05T09:10:09.034Z"
+    },
+    "5f37272260c3fbea": {
+      "originalText": "0.21.6-nightlyJanuary 6, 20240.21.6-nightlyBetter Remote SupportWSL and Dev Containers should now work properly.",
+      "hash": "5f37272260c3fbea",
+      "translations": {
+        "ko": "0.21.6-야간 2024년 1월 6일 0.21.6-야간 더 나은 원격 지원 WSL과 개발 컨테이너가 이제 제대로 작동해야 합니다."
+      },
+      "createdAt": "2025-06-05T09:10:11.669Z",
+      "updatedAt": "2025-06-05T09:10:11.669Z"
+    },
+    "1fa344efe7ef28ee": {
+      "originalText": "0.22.0January 6, 20240.22.0Dev ContainersDev containers are now supported! This build also: Upgrades Cursor to VS Code 1.85, which comes with support for dragging out tabs into a new window. Improves the stability of WSL.",
+      "hash": "1fa344efe7ef28ee",
+      "translations": {
+        "ko": "0.22.0 2024년 1월 6일 0.22.0 개발 컨테이너 개발 컨테이너가 이제 지원됩니다! 이 빌드는 또한 커서를 VS Code 1.85로 업그레이드하며, 이는 탭을 새 창으로 드래그할 수 있는 기능을 제공합니다. WSL의 안정성을 개선합니다."
+      },
+      "createdAt": "2025-06-05T09:10:13.030Z",
+      "updatedAt": "2025-06-05T09:10:13.030Z"
+    },
+    "0f3637df74b19385": {
+      "originalText": "0.21.5-nightlyJanuary 3, 20240.21.5-nightlyEarly Preview: Hold-cmd-tap-shift to Trigger AI RewriteHold down command, press and release shift, and continue holding down command. This will trigger tha AI to rewrite code around your Cursor — you can think of it as a manually triggered GPT-4-powered Copilot++. You can use it to write pseudocode and have the AI correct it, or for tedious refactors where Copilot++ doesn't quite suffice.",
+      "hash": "0f3637df74b19385",
+      "translations": {
+        "ko": "0.21.5-야간 빌드 2024년 1월 3일 0.21.5-야간 빌드 초기 미리보기: AI 재작성 트리거를 위해 cmd를 누르고, shift를 누른 후 놓고, 다시 cmd를 계속 누르고 있습니다. 이렇게 하면 커서 주변의 코드를 AI가 재작성하도록 트리거됩니다. 이를 수동으로 트리거된 GPT-4 기반의 Copilot++로 생각할 수 있습니다. 이를 사용하여 의사 코드를 작성하고 AI가 이를 수정하게 하거나, Copilot++로는 충분하지 않은 지루한 리팩토링 작업에 사용할 수 있습니다."
+      },
+      "createdAt": "2025-06-05T09:10:21.268Z",
+      "updatedAt": "2025-06-05T09:10:21.268Z"
+    },
+    "6b7e8b777f5fb4b7": {
+      "originalText": "0.21.4-nightlyDecember 31, 20230.21.4-nightlyAux Window FixesYou can now use chat and cmd-k in the aux window without too many problems.",
+      "hash": "6b7e8b777f5fb4b7",
+      "translations": {
+        "ko": "0.21.4-야간 2023년 12월 31일 0.21.4-야간 보조 창 수정 이제 보조 창에서 채팅과 cmd-k를 너무 많은 문제 없이 사용할 수 있습니다."
+      },
+      "createdAt": "2025-06-05T09:10:23.378Z",
+      "updatedAt": "2025-06-05T09:10:23.378Z"
+    },
+    "4284064f6ca8238f": {
+      "originalText": "0.21.0December 29, 20230.21.0Multiple Command-K, Copilot++ UIYou can now run multiple Command-K's in parallel! Also, it should now be easier to see change Copilot++ is suggesting.",
+      "hash": "4284064f6ca8238f",
+      "translations": {
+        "ko": "0.21.0 2023년 12월 29일 0.21.0 여러 개의 Command-K, Copilot++ UI 이제 여러 개의 Command-K를 동시에 실행할 수 있습니다! 또한, Copilot++가 제안하는 변경 사항을 더 쉽게 확인할 수 있어야 합니다."
+      },
+      "createdAt": "2025-06-05T09:10:26.774Z",
+      "updatedAt": "2025-06-05T09:10:26.774Z"
+    },
+    "9703d724953b0634": {
+      "originalText": "0.21.3-nightlyDecember 30, 20230.21.3-nightlyVS Code 1.85.1Cursor is now based on VS Code 1.85.1, which, among other things, includes floating editor windows. Just drag and drop an editor onto your desktop to try it out.",
+      "hash": "9703d724953b0634",
+      "translations": {
+        "ko": "0.21.3-야간 2023년 12월 30일 0.21.3-야간 VS Code 1.85.1 커서는 이제 VS Code 1.85.1을 기반으로 하며, 여기에는 플로팅 편집기 창이 포함되어 있습니다. 편집기를 바탕 화면으로 드래그 앤 드롭하여 사용해 보세요."
+      },
+      "createdAt": "2025-06-05T09:10:27.079Z",
+      "updatedAt": "2025-06-05T09:10:27.079Z"
+    }
+  },
+  "metadata": {
+    "totalEntries": 266,
+    "lastUpdated": "2025-06-05T09:10:27.079Z"
+  }
+}
